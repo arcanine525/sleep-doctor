@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "your-firebase-project-id",
+    "sleep-doctor": "am-7b7cb"
+  },
+  "targets": {},
+  "etags": {}
+}

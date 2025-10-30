@@ -1,0 +1,187 @@
+[
+    {
+        "id": 1,
+        "category": "Sleep-Wake Patterns",
+        "question": "If you had a completely free day with no commitments, when would you naturally wake up without an alarm?",
+        "type": "choice",
+        "options": ["Before 6:00 AM", "6:00 AM - 7:30 AM", "7:30 AM - 9:00 AM", "9:00 AM - 11:00 AM", "After 11:00 AM"]
+    },
+    {
+        "id": 2,
+        "category": "Sleep-Wake Patterns",
+        "question": "When do you naturally start to feel sleepy and ready for bed in the evening?",
+        "options": ["Before 9:00 PM", "9:00 PM - 10:30 PM", "10:30 PM - 12:00 AM", "12:00 AM - 1:30 AM", "After 1:30 AM"]
+    },
+    {
+        "id": 3,
+        "category": "Energy & Productivity",
+        "question": "During which part of the day do you feel most alert and productive?",
+        "type": "choice",
+        "options": ["Early Morning (6 AM - 9 AM)", "Mid-Morning (9 AM - 12 PM)", "Afternoon (1 PM - 5 PM)", "Evening (6 PM - 10 PM)", "Late Night (After 10 PM)"]
+    },
+    {
+        "id": 4,
+        "category": "Energy & Productivity",
+        "question": "How would you describe your energy levels upon waking up?",
+        "options": ["Instantly awake and energetic", "A little groggy, but I wake up quickly", "I need at least 30 minutes to function", "Very groggy, I struggle to get out of bed", "It varies greatly day to day"]
+    },
+    {
+        "id": 5,
+        "category": "Social & Lifestyle Preferences",
+        "question": "What's your ideal time for a social event like a dinner with friends?",
+        "options": ["5:00 PM - 6:00 PM", "6:00 PM - 7:00 PM", "7:00 PM - 8:00 PM", "8:00 PM - 9:00 PM", "After 9:00 PM"]
+    },
+    {
+        "id": 6,
+        "category": "Energy & Productivity",
+        "question": "How much do you rely on an alarm clock to wake up on workdays?",
+        "options": ["I always wake up before it", "I use it as a backup", "I need it to wake up on time", "I hit the snooze button multiple times", "My sleep is too irregular for a consistent alarm"]
+    },
+    {
+        "id": 7,
+        "category": "Energy & Productivity",
+        "question": "How do you feel during the 'afternoon slump' (around 2-3 PM)?",
+        "options": ["I don't really experience one", "Slightly less focused", "Noticeably tired and ready for coffee", "Very sleepy, I need a nap", "My energy is inconsistent all day"]
+    },
+    {
+        "id": 8,
+        "category": "Sleep Quality",
+        "question": "How easily is your sleep disturbed by noise or light?",
+        "options": ["I can sleep through anything", "Minor things might stir me", "I'm a fairly light sleeper", "I'm a very light sleeper", "I wake up at the slightest disturbance"]
+    },
+    {
+        "id": 9,
+        "category": "Social & Lifestyle Preferences",
+        "question": "If you could choose your own work hours, which schedule would you pick?",
+        "options": ["6 AM - 2 PM", "9 AM - 5 PM", "11 AM - 7 PM", "3 PM - 11 PM", "A flexible schedule with varied hours"]
+    },
+    {
+        "id": 10,
+        "category": "Sleep Quality",
+        "question": "How often do you find your mind racing with anxious thoughts when you're trying to fall asleep?",
+        "type": "choice",
+        "options": ["Never", "Rarely", "Sometimes", "Often", "Almost every night"]
+    },
+    {
+        "id": 26,
+        "category": "Sleep Habits",
+        "question": "On a scale of 1-5, how disruptive is your sleep to your quality of life?",
+        "type": "scale",
+        "anchors": ["Not Disruptive", "Highly Disruptive"],
+        "options": ["1","2","3","4","5"]
+    },
+    {
+        "id": 27,
+        "category": "Sleep Habits",
+        "question": "On a scale of 1-5, how much does noise in your environment affect your sleep?",
+        "type": "scale",
+        "anchors": ["Not Disruptive", "Highly Disruptive"],
+        "options": ["1","2","3","4","5"]
+    },
+    {
+        "id": 28,
+        "category": "Sleep Habits",
+        "question": "On a scale of 1-5, how often do you wake up feeling rested?",
+        "type": "scale",
+        "anchors": ["Never Rested", "Always Rested"],
+        "options": ["1","2","3","4","5"]
+    },
+    {
+        "id": 29,
+        "category": "Sleep Environment",
+        "question": "On a scale of 1-5, how comfortable is your sleep environment (temperature, bed, noise)?",
+        "type": "scale",
+        "anchors": ["Very Uncomfortable", "Very Comfortable"],
+        "options": ["1","2","3","4","5"]
+    },
+    {
+        "id": 11,
+        "category": "Self-Perception",
+        "question": "How would you instinctively describe yourself?",
+        "options": ["A definite morning person", "More of a morning person", "Neither a morning nor an evening person", "More of an evening person", "A definite evening person"]
+    },
+    {
+        "id": 12,
+        "category": "Sleep-Wake Patterns",
+        "question": "How much does your sleep schedule differ between weekdays and weekends? (Social Jetlag)",
+        "options": ["Not at all, I wake up at the same time", "Less than 1 hour difference", "1-2 hours difference", "More than 2 hours difference", "My schedule is completely unpredictable"]
+    },
+    {
+        "id": 13,
+        "category": "Social & Lifestyle Preferences",
+        "question": "When do you feel most energized to exercise?",
+        "options": ["First thing in the morning", "Around lunchtime", "Late afternoon", "In the evening", "I struggle to find a good time to exercise"]
+    },
+    {
+        "id": 14,
+        "category": "Diet & Habits",
+        "question": "How soon after waking do you feel hungry for your first meal?",
+        "options": ["Immediately", "Within 30 minutes", "Within an hour or two", "I often skip breakfast or eat it late", "My appetite is unpredictable"]
+    },
+    {
+        "id": 15,
+        "category": "Cognitive Function",
+        "question": "When do you feel you are at your best for tackling a mentally challenging task?",
+        "options": ["Right after waking up", "Mid-morning", "Mid-afternoon", "Late evening", "In short bursts throughout the day"]
+    },
+    {
+        "id": 16,
+        "category": "Sleep Quality",
+        "question": "How often do you wake up during the night for reasons other than using the restroom?",
+        "options": ["Never", "Rarely, maybe once a month", "Sometimes, a few times a week", "Often, most nights", "I wake up constantly"]
+    },
+    {
+        "id": 17,
+        "category": "Diet & Habits",
+        "question": "When are you most likely to consume caffeine?",
+        "options": ["I don't consume caffeine", "Only in the early morning", "Morning and early afternoon", "Throughout the day, even into the evening", "My caffeine habit is irregular"]
+    },
+    {
+        "id": 18,
+        "category": "Energy & Productivity",
+        "question": "Consider a task that requires intense focus for two hours. What time would you choose to start?",
+        "options": ["7:00 AM", "10:00 AM", "2:00 PM", "8:00 PM", "11:00 PM"]
+    },
+    {
+        "id": 19,
+        "category": "Sleep Quality",
+        "question": "How often do you wake up feeling refreshed and ready for the day?",
+        "options": ["Almost always", "Often", "Sometimes", "Rarely", "Almost never"]
+    },
+    {
+        "id": 20,
+        "category": "Social & Lifestyle Preferences",
+        "question": "How do you feel at a social gathering that lasts past midnight?",
+        "options": ["Exhausted and ready to leave early", "Getting tired but can manage", "Comfortable and engaged", "Energized and hitting my stride", "It depends on how I slept the night before"]
+    },
+    {
+        "id": 21,
+        "category": "Energy & Productivity",
+        "question": "How would you describe your creativity levels throughout the day?",
+        "options": ["Highest in the morning", "Peaks around midday", "Comes in waves during the afternoon", "Flows best in the evening and night", "Completely random and unpredictable"]
+    },
+    {
+        "id": 22,
+        "category": "Sleep Environment",
+        "question": "How important is a completely dark room for you to sleep well?",
+        "options": ["Not important, I can sleep anywhere", "Helpful, but not necessary", "Quite important", "Essential, I need it pitch black", "Even a little light keeps me awake"]
+    },
+    {
+        "id": 23,
+        "category": "Sleep-Wake Patterns",
+        "question": "If you go to bed later than usual, how does it affect you the next day?",
+        "options": ["I still wake up at my usual time and feel fine", "I wake up at my usual time but feel tired", "I can sleep in a bit and feel okay", "I need to sleep in significantly to recover", "It completely ruins my sleep for several days"]
+    },
+    {
+        "id": 24,
+        "category": "Cognitive Function",
+        "question": "How is your mood generally impacted by your sleep schedule?",
+        "options": ["My mood is very positive in the morning", "My mood is stable throughout the day", "My mood improves as the day goes on", "My mood is best late at night", "My mood is very sensitive to how much sleep I got"]
+    },
+    {
+        "id": 25,
+        "category": "Sleep Quality",
+        "question": "How would you rate the overall quality of your sleep on a typical night?",
+        "options": ["Excellent and deep", "Good, mostly uninterrupted", "Fair, somewhat restless", "Poor, light and fragmented", "Very poor and unsatisfying"]
+    }
+]

@@ -1,0 +1,348 @@
+html,body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+}
+
+main {
+  padding: 2rem;
+}
+
+h1 {
+  color: #111827;
+}
+
+.page-root {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f8fafc;
+}
+
+.question-root {
+  width: 760px;
+  background: transparent;
+}
+
+.progress-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.back {
+  width: 40px;
+  height: 40px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: #374151;
+  font-size: 20px;
+  background: transparent;
+  border: none;
+  padding: 0;
+}
+
+.back:disabled { opacity: 0.3; cursor: default }
+
+.back-clickable { cursor: pointer }
+.back-clickable:hover { color: #111827 }
+.back-clickable:focus { outline: 3px solid rgba(99,102,241,0.2); border-radius: 6px }
+
+.progress-bar {
+  flex: 1;
+  height: 8px;
+  background: #eef2ff;
+  border-radius: 999px;
+  position: relative;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background: #6366f1;
+}
+
+/* animated width for progress */
+.progress-fill {
+  transition: width 300ms ease;
+}
+
+/* page advance animation: fade out + slide up */
+.advance {
+  animation: fadeSlide 300ms forwards;
+}
+
+@keyframes fadeSlide {
+  from { opacity: 1; transform: translateY(0); }
+  to { opacity: 0; transform: translateY(-8px); }
+}
+
+.count {
+  width: 48px;
+  text-align: right;
+  color: #6b7280;
+}
+
+.question-center {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.category {
+  color: #9ca3af;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.q {
+  font-size: 32px;
+  margin: 0.25rem 0 1.5rem;
+}
+
+/* Landing / home page styles */
+.landing-root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 48px;
+  width: 100%;
+  padding: 40px 80px;
+}
+.landing-left {
+  flex: 1 1 460px;
+  max-width: 520px;
+  text-align: left;
+}
+.landing-left h1 {
+  font-size: 44px;
+  margin: 0 0 12px;
+}
+.landing-left p {
+  color: #374151;
+  line-height: 1.6;
+}
+.landing-right {
+  width: 420px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.landing-hero {
+  width: 360px;
+  height: 360px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 30% 30%, #bfe8f0, #6b73d6);
+  box-shadow: 0 6px 30px rgba(99,102,241,0.12);
+}
+
+/* Scale question styles */
+.scale-root {
+  margin-top: 12px;
+}
+
+.scale-root .side-labels {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.scale-track-wrapper {
+  position: relative;
+  width: 100%;
+}
+
+input[type='range'] {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 12px;
+  background: transparent;
+}
+
+/* show hand cursor over slider */
+input[type='range'] { cursor: pointer }
+
+/* Track */
+
+/* thin base track */
+input[type='range']::-webkit-slider-runnable-track {
+  height: 10px;
+  background: #eef2ff;
+  border-radius: 999px;
+}
+input[type='range']::-moz-range-track {
+  height: 10px;
+  background: #eef2ff;
+  border-radius: 999px;
+}
+
+/* Thumb */
+input[type='range']::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+  margin-top: -4px; /* center thumb on track */
+  background: transparent;
+  border: none;
+}
+input[type='range']::-moz-range-thumb {
+  width: 20px;
+  height: 20px;
+  background: transparent;
+  border: none;
+}
+
+/* ensure the thumb shows pointer */
+input[type='range']::-webkit-slider-thumb { cursor: pointer }
+input[type='range']::-moz-range-thumb { cursor: pointer }
+
+/* Visual filled portion (using an overlay element handled inline by the component) */
+.scale-filled {
+  position: absolute;
+  left: 0;
+  height: 10px;
+  border-radius: 999px;
+  background: linear-gradient(90deg, #6b73d6, #6b73d6);
+  pointer-events: none;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1;
+  transition: width 320ms cubic-bezier(.2,.9,.3,1);
+}
+
+/* Numeric bubble that sits above the track */
+.scale-bubble {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: white;
+  border: 3px solid #243b77;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 16px;
+  box-shadow: 0 4px 10px rgba(36,59,119,0.08);
+  transition: transform 260ms ease, box-shadow 260ms ease;
+}
+
+/* bubble should appear above everything and be clickable-looking */
+.scale-bubble { z-index: 2; cursor: pointer }
+
+.scale-bubble:active { transform: scale(0.98) }
+
+/* option cards and continue button should show pointer on hover */
+.option-card { cursor: pointer }
+.continue-btn { cursor: pointer }
+
+/* Side label styling (emoji + text) */
+.scale-side {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-weight: 600;
+}
+
+/* Large continue button */
+.continue-btn {
+  background: #6b73d6;
+  color: #fff;
+  border: none;
+  padding: 18px 64px;
+  border-radius: 999px;
+  font-size: 20px;
+  letter-spacing: 0.6px;
+  box-shadow: 0 6px 20px rgba(99,102,241,0.16);
+}
+
+/* ensure button disabled state is visible */
+.continue-btn[disabled] { opacity: 0.6 }
+
+.options {
+  display: grid;
+  gap: 12px;
+  margin-top: 1rem;
+}
+
+.option-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 18px 22px;
+  border-radius: 8px;
+  background: #ffffff;
+  border: 1px solid #eef2f7;
+  box-shadow: 0 1px 0 rgba(15,23,42,0.03);
+  font-size: 16px;
+}
+
+.option-card .chev {
+  color: #9ca3af;
+}
+
+.option-card.selected {
+  border-color: #6366f1;
+  background: linear-gradient(90deg, #6366f1, #6b73d6);
+  color: #ffffff;
+  box-shadow: 0 8px 24px rgba(99,102,241,0.18);
+}
+
+.option-card.selected .chev { color: rgba(255,255,255,0.95) }
+
+.option-card {
+  transition: background 200ms ease, color 200ms ease, box-shadow 200ms ease, border-color 200ms ease;
+}
+
+button[disabled] {
+  opacity: 0.5;
+}
+
+button {
+  padding: 10px 14px;
+  border-radius: 6px;
+  border: 1px solid #e5e7eb;
+  background: white;
+}
+
+.option-card.disabled {
+  pointer-events: none;
+  opacity: 0.8;
+}
+
+.summary {
+  max-width: 760px;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(2,6,23,0.06);
+}
+
+.summary ul {
+  list-style: none;
+  padding: 0;
+}
+
+.summary li {
+  border-top: 1px solid #f1f5f9;
+  padding: 12px 0;
+}
+
+/* simple spinner */
+.spinner {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  display: inline-block;
+  background: linear-gradient(90deg, #4f46e5, #a78bfa);
+  box-shadow: 0 0 6px rgba(99,102,241,0.4);
+  animation: spinPulse 700ms linear infinite;
+}
+
+@keyframes spinPulse {
+  0% { transform: scale(1); opacity: 1 }
+  50% { transform: scale(1.4); opacity: 0.6 }
+  100% { transform: scale(1); opacity: 1 }
+}
