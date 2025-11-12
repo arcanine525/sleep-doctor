@@ -5,7 +5,14 @@
 // 3. Open the Google Sheet you want to push data into, then in Extensions > Apps Script paste this file and run `pushDataToSheet`.
 // 4. Optionally create a time-driven trigger to keep the sheet updated.
 
-const JSON_URL = 'https://script.google.com/macros/s/AKfycbwwq0I0FPzht5ghueR6AmzUCHabgo6rH5shmMMoY0rE-synlXjclS49Ht_y6a5W3QbF/exec';
+// Provide one or more URLs that return the survey JSON (same shape as data2.json).
+// The script will fetch all URLs and merge their `rows` arrays. If a record has
+// an `A` cell with a value (record id), that id is used to deduplicate across
+// the sources; otherwise the full row JSON is used as the dedupe key.
+const JSON_URLS = [
+  'https://script.google.com/macros/s/AKfycbwwq0I0FPzht5ghueR6AmzUCHabgo6rH5shmMMoY0rE-synlXjclS49Ht_y6a5W3QbF/exec',
+  // 'https://example.com/data2.json'
+];
 const COLUMN_TRANSFORMS = {
   'BE5': function(value) { return (value != null) ? 5 - value : null; },
   'DH4': function(value) { return (value != null) ? 5 - value : null; },
@@ -18,11 +25,26 @@ const COLUMN_TRANSFORMS = {
 };
 
 function fetchJson() {
-  const resp = UrlFetchApp.fetch(JSON_URL, { muteHttpExceptions: true });
-  if (resp.getResponseCode() !== 200) {
-    throw new Error('Failed to fetch JSON: ' + resp.getResponseCode());
-  }
-  return JSON.parse(resp.getContentText());
+  // Fetch all URLs and merge rows. Deduplicate by record id (A.value) when present.
+  const merged = [];
+  const seen = new Set();
+  JSON_URLS.forEach(function(url) {
+    const resp = UrlFetchApp.fetch(url, { muteHttpExceptions: true });
+    if (resp.getResponseCode() !== 200) {
+      throw new Error('Failed to fetch JSON from ' + url + ': ' + resp.getResponseCode());
+    }
+    const payload = JSON.parse(resp.getContentText());
+    const rows = payload.rows || [];
+    rows.forEach(function(row) {
+      // dedupe key: prefer explicit record id if present, otherwise stringify row
+      const idKey = (row && row.A && row.A.value) ? String(row.A.value) : JSON.stringify(row);
+      if (!seen.has(idKey)) {
+        seen.add(idKey);
+        merged.push(row);
+      }
+    });
+  });
+  return { rows: merged };
 }
 
 function slugify(text) {
@@ -154,8 +176,18 @@ function pushDataToSheet() {
       outputRows.push([rec.id, rec.gender, rec.grade, rec.school].concat(processed, [ncount>0?rowSum:'', ncount>0?avg:'', determineLevel(avg)]));
     }
 
-    // write numeric sheet
-    sheet.getRange(1,1,outputRows.length, outputRows[0].length).setValues(outputRows);
+    // write numeric sheet — append if sheet already has data, otherwise write header + rows
+    if (sheet.getLastRow() === 0) {
+      // empty sheet: write header + all rows
+      sheet.getRange(1, 1, outputRows.length, outputRows[0].length).setValues(outputRows);
+    } else {
+      // sheet has existing data: append rows (skip header row in outputRows)
+      const rowsToAppend = outputRows.slice(1);
+      if (rowsToAppend.length) {
+        const startRow = sheet.getLastRow() + 1;
+        sheet.getRange(startRow, 1, rowsToAppend.length, rowsToAppend[0].length).setValues(rowsToAppend);
+      }
+    }
 
     // write text sheet
     const textSheetName = prefix + '_text';
@@ -191,7 +223,16 @@ function pushDataToSheet() {
       textRows.push([rec.id, rec.gender, rec.grade, rec.school].concat(rowCells, [determineLevel(avg)]));
     }
 
-    textSheet.getRange(1,1,textRows.length,textRows[0].length).setValues(textRows);
+    // write text sheet — append if sheet already has data, otherwise write header + rows
+    if (textSheet.getLastRow() === 0) {
+      textSheet.getRange(1, 1, textRows.length, textRows[0].length).setValues(textRows);
+    } else {
+      const textToAppend = textRows.slice(1);
+      if (textToAppend.length) {
+        const startRow = textSheet.getLastRow() + 1;
+        textSheet.getRange(startRow, 1, textToAppend.length, textToAppend[0].length).setValues(textToAppend);
+      }
+    }
   });
 
   // optionally update metadata sheet
@@ -200,4 +241,22 @@ function pushDataToSheet() {
   Object.keys(groups).forEach(function(p){ metaObj[p] = groups[p].headers; });
   if (!meta) meta = ss.insertSheet('_column_labels'); else meta.clear();
   meta.getRange(1,1,1,1).setValue(JSON.stringify(metaObj));
+
+  // Update last_update_at sheet with timestamp, sources and merged row count
+  try {
+    const now = new Date().toISOString();
+    const lastSheetName = 'last_update_at';
+    let lastSheet = ss.getSheetByName(lastSheetName);
+    if (!lastSheet) lastSheet = ss.insertSheet(lastSheetName);
+    else lastSheet.clear();
+    lastSheet.getRange(1,1).setValue('last_update_at');
+    lastSheet.getRange(1,2).setValue(now);
+    lastSheet.getRange(2,1).setValue('sources');
+    lastSheet.getRange(2,2).setValue(JSON_URLS.join(', '));
+    lastSheet.getRange(3,1).setValue('merged_rows');
+    lastSheet.getRange(3,2).setValue(rows.length);
+  } catch (e) {
+    // Best-effort: do not fail the whole run if last_update_at write fails
+    console.warn('Failed to write last_update_at sheet: ' + e.message);
+  }
 }
