@@ -5,11 +5,17 @@ import unicodedata
 from collections import defaultdict
 from pathlib import Path
 
-PREFIX_PATTERN = re.compile(r"^([A-Za-z]+)(\d+)")
+# Match exactly two Unicode letters followed by exactly one digit anywhere in the header.
+# Exclude underscore explicitly so the two-character prefix contains only letters.
+# Examples:
+#  - "[Pu1: ...]" -> group1="Pu", group2="1" (matches)
+#  - "C2" -> does NOT match (only one letter)
+PREFIX_PATTERN = re.compile(r"([^\d\W_]{2})(\d)", re.UNICODE)
 MISC_GROUP = "MISC"
 
 BASE_DIR = Path(__file__).resolve().parents[1]
 INPUT_FILE = BASE_DIR / "data.json"
+# INPUT_FILE = BASE_DIR / "data2.json"
 OUTPUT_DIR = BASE_DIR / "data" / "csv"
 TEXT_OUTPUT_DIR = OUTPUT_DIR / "text"
 
@@ -96,7 +102,7 @@ def collect_groups(rows):
             if not header:
                 continue
             value = normalize_value(cell.get("value"))
-            match = PREFIX_PATTERN.match(header)
+            match = PREFIX_PATTERN.search(header)
             if match:
                 prefix = match.group(1).upper()
                 column_code = f"{prefix}{match.group(2)}"
@@ -113,7 +119,7 @@ def sort_columns(prefix, columns):
         return sorted(columns)
     sortable = []
     for column in columns:
-        match = PREFIX_PATTERN.match(column)
+        match = PREFIX_PATTERN.search(column)
         order = int(match.group(2)) if match else float("inf")
         sortable.append((order, column))
     sortable.sort()

@@ -1,0 +1,4283 @@
+{
+  "ok": true,
+  "rows": [
+    {
+      "A": {
+        "header": "Dấu thời gian",
+        "value": "2025-10-13T15:02:02.197Z"
+      },
+      "B": {
+        "header": "Tôi đã đọc những thông tin hướng dẫn trên và đồng ý tham gia thực hiện khảo sát này",
+        "value": "Đồng ý"
+      },
+      "C": {
+        "header": "1. Bạn thuộc giới tính nào?",
+        "value": "Nữ"
+      },
+      "D": {
+        "header": "2. Bạn là học sinh khối mấy? (năm học 2025 – 2026)",
+        "value": 12
+      },
+      "E": {
+        "header": "3. Bạn là học sinh trường nào?",
+        "value": "THPT Lương Thế Vinh"
+      },
+      "F": {
+        "header": "4. Trường của bạn thuộc mô hình nào?",
+        "value": "Công lập thường"
+      },
+      "G": {
+        "header": "5. Bạn học chương trình nào?",
+        "value": "Hệ Thường"
+      },
+      "H": {
+        "header": "6. Email (Giúp bạn có thể xem kết quả và so sánh với cộng đồng trên Dashboard",
+        "value": "thanhthuongk40@gmail.com"
+      },
+      "I": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be1: Khi nghĩ đến nghề, điều tôi quan tâm nhất là có thể tự nuôi sống bản thân.]",
+        "value": 4
+      },
+      "J": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be2: Tôi ưu tiên chọn nghề ít rủi ro, an toàn cho cuộc sống.]",
+        "value": 4
+      },
+      "K": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be3: Tôi thường ngại thay đổi lớn (chuyển ngành, đổi hướng).]",
+        "value": 4
+      },
+      "L": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be4: Tôi muốn có việc làm ổn định ngay sau khi ra trường.]",
+        "value": 4
+      },
+      "M": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be5: Tôi chấp nhận rủi ro, thử điều mới dù thiếu an toàn ban đầu.]",
+        "value": 2
+      },
+      "N": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu1: Tôi coi trọng ý kiến gia đình khi chọn nghề.]",
+        "value": 2
+      },
+      "O": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu2: Tôi muốn nghề gắn với truyền thống hoặc mong muốn của cha mẹ.]",
+        "value": 2
+      },
+      "P": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu3: Tôi thấy yên tâm khi chọn nghề quen thuộc với người thân.]",
+        "value": 2
+      },
+      "Q": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu4: Tôi tôn trọng lời khuyên của thầy cô/cha mẹ trong chọn nghề.]",
+        "value": 3
+      },
+      "R": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re1: Tôi muốn có nghề giúp tôi thể hiện bản thân, được công nhận.]",
+        "value": 5
+      },
+      "S": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re2: Tôi thích môi trường cạnh tranh, có người thắng – thua rõ ràng.]",
+        "value": 5
+      },
+      "T": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re3: Tôi hứng thú với những nghề cho phép quyết đoán, hành động nhanh.]",
+        "value": 5
+      },
+      "U": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re4: Tôi sẵn sàng mạo hiểm để đạt thành công nổi bật.]",
+        "value": 5
+      },
+      "V": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl1: Tôi muốn công việc có nội quy, quy định rõ ràng.]",
+        "value": 4
+      },
+      "W": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl2: Tôi thích nghề có lộ trình ổn định, lâu dài.]",
+        "value": 4
+      },
+      "X": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl3: Tôi thường tuân thủ kế hoạch học tập/làm việc đã đặt ra.]",
+        "value": 2
+      },
+      "Y": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl4: Tôi tôn trọng luật lệ, thẩm quyền trong học tập/công việc.]",
+        "value": 2
+      },
+      "Z": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl5: Tôi thấy khó chịu nếu có quá nhiều nội quy cứng nhắc.]",
+        "value": 4
+      },
+      "AA": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or1: Tôi thường đặt mục tiêu đo được bằng điểm/KPI/kết quả cụ thể.]",
+        "value": 4
+      },
+      "AB": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or2: Tôi thấy hứng thú khi có thử thách mới để vượt qua.]",
+        "value": 4
+      },
+      "AC": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or3: Tôi so sánh kết quả của mình với bạn để phấn đấu hơn.]",
+        "value": 5
+      },
+      "AD": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or4: Tôi quan tâm cách làm mới, hiệu quả hơn để đạt mục tiêu.]",
+        "value": 5
+      },
+      "AE": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or5: Tôi không thích áp lực thành tích, chỉ muốn làm vừa đủ.]",
+        "value": 2
+      },
+      "AF": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr1: Tôi coi trọng công bằng, tôn trọng khác biệt trong học tập/công việc.]",
+        "value": 4
+      },
+      "AG": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr2: Tôi muốn nghề tương lai giúp ích cho cộng đồng/xã hội.]",
+        "value": 4
+      },
+      "AH": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr3: Tôi thích làm việc nhóm, mọi người cùng tham gia ý kiến.]",
+        "value": 2
+      },
+      "AI": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr4: Tôi thường giữ hòa khí, hạn chế xung đột.]",
+        "value": 2
+      },
+      "AJ": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye1: Tôi thích nghề đòi hỏi giải quyết vấn đề phức tạp.]",
+        "value": 4
+      },
+      "AK": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye2: Tôi coi trọng tự học liên tục, phát triển cả đời.]",
+        "value": 4
+      },
+      "AL": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye3: Tôi thường kết hợp nhiều ý tưởng/góc nhìn để tìm giải pháp.]",
+        "value": 5
+      },
+      "AM": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye4: Tôi linh hoạt đổi cách làm khi điều kiện thay đổi.]",
+        "value": 5
+      },
+      "AN": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye5: Tôi chỉ thích cách làm quen thuộc, không muốn thử mới.]",
+        "value": 2
+      },
+      "AO": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq1: Tôi quan tâm tác động lâu dài của nghề với xã hội/môi trường.]",
+        "value": 4
+      },
+      "AP": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq2: Tôi tin con người – xã hội – thiên nhiên có liên hệ chặt chẽ.]",
+        "value": 4
+      },
+      "AQ": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq3: Tôi muốn chọn nghề có ý nghĩa vượt lên lợi ích cá nhân.]",
+        "value": 4
+      },
+      "AR": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq4: Tôi sẵn sàng hợp tác đa ngành/đa văn hóa vì mục tiêu chung.]",
+        "value": 4
+      },
+      "AS": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq5: Tôi nghĩ các vấn đề toàn cầu (môi trường, bình đẳng) không liên quan đến chọn nghề của mình.]",
+        "value": 4
+      },
+      "AT": {
+        "header": "Bạn quan tâm tới ngành nghề nào? ( Nêu 1 ngành nghề cụ thể thôi để tôi tư vấn chuyên sâu cho bạn nha!)",
+        "value": ""
+      }
+    },
+    {
+      "A": {
+        "header": "Dấu thời gian",
+        "value": "2025-10-18T02:15:46.113Z"
+      },
+      "B": {
+        "header": "Tôi đã đọc những thông tin hướng dẫn trên và đồng ý tham gia thực hiện khảo sát này",
+        "value": "Đồng ý"
+      },
+      "C": {
+        "header": "1. Bạn thuộc giới tính nào?",
+        "value": "Nữ"
+      },
+      "D": {
+        "header": "2. Bạn là học sinh khối mấy? (năm học 2025 – 2026)",
+        "value": 10
+      },
+      "E": {
+        "header": "3. Bạn là học sinh trường nào?",
+        "value": "Thpt Lương Thế Vinh "
+      },
+      "F": {
+        "header": "4. Trường của bạn thuộc mô hình nào?",
+        "value": "Công lập thường"
+      },
+      "G": {
+        "header": "5. Bạn học chương trình nào?",
+        "value": "Hệ Thường"
+      },
+      "H": {
+        "header": "6. Email (Giúp bạn có thể xem kết quả và so sánh với cộng đồng trên Dashboard",
+        "value": "nghidx257@gmail.com"
+      },
+      "I": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be1: Khi nghĩ đến nghề, điều tôi quan tâm nhất là có thể tự nuôi sống bản thân.]",
+        "value": 5
+      },
+      "J": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be2: Tôi ưu tiên chọn nghề ít rủi ro, an toàn cho cuộc sống.]",
+        "value": 4
+      },
+      "K": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be3: Tôi thường ngại thay đổi lớn (chuyển ngành, đổi hướng).]",
+        "value": 4
+      },
+      "L": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be4: Tôi muốn có việc làm ổn định ngay sau khi ra trường.]",
+        "value": 5
+      },
+      "M": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be5: Tôi chấp nhận rủi ro, thử điều mới dù thiếu an toàn ban đầu.]",
+        "value": 4
+      },
+      "N": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu1: Tôi coi trọng ý kiến gia đình khi chọn nghề.]",
+        "value": 5
+      },
+      "O": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu2: Tôi muốn nghề gắn với truyền thống hoặc mong muốn của cha mẹ.]",
+        "value": 3
+      },
+      "P": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu3: Tôi thấy yên tâm khi chọn nghề quen thuộc với người thân.]",
+        "value": 2
+      },
+      "Q": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu4: Tôi tôn trọng lời khuyên của thầy cô/cha mẹ trong chọn nghề.]",
+        "value": 4
+      },
+      "R": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re1: Tôi muốn có nghề giúp tôi thể hiện bản thân, được công nhận.]",
+        "value": 5
+      },
+      "S": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re2: Tôi thích môi trường cạnh tranh, có người thắng – thua rõ ràng.]",
+        "value": 3
+      },
+      "T": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re3: Tôi hứng thú với những nghề cho phép quyết đoán, hành động nhanh.]",
+        "value": 3
+      },
+      "U": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re4: Tôi sẵn sàng mạo hiểm để đạt thành công nổi bật.]",
+        "value": 4
+      },
+      "V": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl1: Tôi muốn công việc có nội quy, quy định rõ ràng.]",
+        "value": 3
+      },
+      "W": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl2: Tôi thích nghề có lộ trình ổn định, lâu dài.]",
+        "value": 4
+      },
+      "X": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl3: Tôi thường tuân thủ kế hoạch học tập/làm việc đã đặt ra.]",
+        "value": 5
+      },
+      "Y": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl4: Tôi tôn trọng luật lệ, thẩm quyền trong học tập/công việc.]",
+        "value": 5
+      },
+      "Z": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl5: Tôi thấy khó chịu nếu có quá nhiều nội quy cứng nhắc.]",
+        "value": 5
+      },
+      "AA": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or1: Tôi thường đặt mục tiêu đo được bằng điểm/KPI/kết quả cụ thể.]",
+        "value": 4
+      },
+      "AB": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or2: Tôi thấy hứng thú khi có thử thách mới để vượt qua.]",
+        "value": 4
+      },
+      "AC": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or3: Tôi so sánh kết quả của mình với bạn để phấn đấu hơn.]",
+        "value": 5
+      },
+      "AD": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or4: Tôi quan tâm cách làm mới, hiệu quả hơn để đạt mục tiêu.]",
+        "value": 5
+      },
+      "AE": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or5: Tôi không thích áp lực thành tích, chỉ muốn làm vừa đủ.]",
+        "value": 2
+      },
+      "AF": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr1: Tôi coi trọng công bằng, tôn trọng khác biệt trong học tập/công việc.]",
+        "value": 5
+      },
+      "AG": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr2: Tôi muốn nghề tương lai giúp ích cho cộng đồng/xã hội.]",
+        "value": 4
+      },
+      "AH": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr3: Tôi thích làm việc nhóm, mọi người cùng tham gia ý kiến.]",
+        "value": 2
+      },
+      "AI": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr4: Tôi thường giữ hòa khí, hạn chế xung đột.]",
+        "value": 5
+      },
+      "AJ": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye1: Tôi thích nghề đòi hỏi giải quyết vấn đề phức tạp.]",
+        "value": 2
+      },
+      "AK": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye2: Tôi coi trọng tự học liên tục, phát triển cả đời.]",
+        "value": 2
+      },
+      "AL": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye3: Tôi thường kết hợp nhiều ý tưởng/góc nhìn để tìm giải pháp.]",
+        "value": 5
+      },
+      "AM": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye4: Tôi linh hoạt đổi cách làm khi điều kiện thay đổi.]",
+        "value": 5
+      },
+      "AN": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye5: Tôi chỉ thích cách làm quen thuộc, không muốn thử mới.]",
+        "value": 1
+      },
+      "AO": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq1: Tôi quan tâm tác động lâu dài của nghề với xã hội/môi trường.]",
+        "value": 4
+      },
+      "AP": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq2: Tôi tin con người – xã hội – thiên nhiên có liên hệ chặt chẽ.]",
+        "value": 4
+      },
+      "AQ": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq3: Tôi muốn chọn nghề có ý nghĩa vượt lên lợi ích cá nhân.]",
+        "value": 2
+      },
+      "AR": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq4: Tôi sẵn sàng hợp tác đa ngành/đa văn hóa vì mục tiêu chung.]",
+        "value": 4
+      },
+      "AS": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq5: Tôi nghĩ các vấn đề toàn cầu (môi trường, bình đẳng) không liên quan đến chọn nghề của mình.]",
+        "value": 3
+      },
+      "AT": {
+        "header": "Bạn quan tâm tới ngành nghề nào? ( Nêu 1 ngành nghề cụ thể thôi để tôi tư vấn chuyên sâu cho bạn nha!)",
+        "value": ""
+      }
+    },
+    {
+      "A": {
+        "header": "Dấu thời gian",
+        "value": "2025-10-18T02:17:27.133Z"
+      },
+      "B": {
+        "header": "Tôi đã đọc những thông tin hướng dẫn trên và đồng ý tham gia thực hiện khảo sát này",
+        "value": "Đồng ý"
+      },
+      "C": {
+        "header": "1. Bạn thuộc giới tính nào?",
+        "value": "Nữ"
+      },
+      "D": {
+        "header": "2. Bạn là học sinh khối mấy? (năm học 2025 – 2026)",
+        "value": 10
+      },
+      "E": {
+        "header": "3. Bạn là học sinh trường nào?",
+        "value": "Lương Thế Vinh"
+      },
+      "F": {
+        "header": "4. Trường của bạn thuộc mô hình nào?",
+        "value": "Công lập thường"
+      },
+      "G": {
+        "header": "5. Bạn học chương trình nào?",
+        "value": "Hệ Thường"
+      },
+      "H": {
+        "header": "6. Email (Giúp bạn có thể xem kết quả và so sánh với cộng đồng trên Dashboard",
+        "value": "taitue.28122010@gmail.com"
+      },
+      "I": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be1: Khi nghĩ đến nghề, điều tôi quan tâm nhất là có thể tự nuôi sống bản thân.]",
+        "value": 5
+      },
+      "J": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be2: Tôi ưu tiên chọn nghề ít rủi ro, an toàn cho cuộc sống.]",
+        "value": 5
+      },
+      "K": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be3: Tôi thường ngại thay đổi lớn (chuyển ngành, đổi hướng).]",
+        "value": 5
+      },
+      "L": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be4: Tôi muốn có việc làm ổn định ngay sau khi ra trường.]",
+        "value": 5
+      },
+      "M": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be5: Tôi chấp nhận rủi ro, thử điều mới dù thiếu an toàn ban đầu.]",
+        "value": 1
+      },
+      "N": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu1: Tôi coi trọng ý kiến gia đình khi chọn nghề.]",
+        "value": 3
+      },
+      "O": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu2: Tôi muốn nghề gắn với truyền thống hoặc mong muốn của cha mẹ.]",
+        "value": 3
+      },
+      "P": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu3: Tôi thấy yên tâm khi chọn nghề quen thuộc với người thân.]",
+        "value": 3
+      },
+      "Q": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu4: Tôi tôn trọng lời khuyên của thầy cô/cha mẹ trong chọn nghề.]",
+        "value": 4
+      },
+      "R": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re1: Tôi muốn có nghề giúp tôi thể hiện bản thân, được công nhận.]",
+        "value": 3
+      },
+      "S": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re2: Tôi thích môi trường cạnh tranh, có người thắng – thua rõ ràng.]",
+        "value": 3
+      },
+      "T": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re3: Tôi hứng thú với những nghề cho phép quyết đoán, hành động nhanh.]",
+        "value": 3
+      },
+      "U": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re4: Tôi sẵn sàng mạo hiểm để đạt thành công nổi bật.]",
+        "value": 1
+      },
+      "V": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl1: Tôi muốn công việc có nội quy, quy định rõ ràng.]",
+        "value": 3
+      },
+      "W": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl2: Tôi thích nghề có lộ trình ổn định, lâu dài.]",
+        "value": 4
+      },
+      "X": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl3: Tôi thường tuân thủ kế hoạch học tập/làm việc đã đặt ra.]",
+        "value": 4
+      },
+      "Y": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl4: Tôi tôn trọng luật lệ, thẩm quyền trong học tập/công việc.]",
+        "value": 4
+      },
+      "Z": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl5: Tôi thấy khó chịu nếu có quá nhiều nội quy cứng nhắc.]",
+        "value": 3
+      },
+      "AA": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or1: Tôi thường đặt mục tiêu đo được bằng điểm/KPI/kết quả cụ thể.]",
+        "value": 5
+      },
+      "AB": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or2: Tôi thấy hứng thú khi có thử thách mới để vượt qua.]",
+        "value": 4
+      },
+      "AC": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or3: Tôi so sánh kết quả của mình với bạn để phấn đấu hơn.]",
+        "value": 1
+      },
+      "AD": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or4: Tôi quan tâm cách làm mới, hiệu quả hơn để đạt mục tiêu.]",
+        "value": 3
+      },
+      "AE": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or5: Tôi không thích áp lực thành tích, chỉ muốn làm vừa đủ.]",
+        "value": 5
+      },
+      "AF": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr1: Tôi coi trọng công bằng, tôn trọng khác biệt trong học tập/công việc.]",
+        "value": 4
+      },
+      "AG": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr2: Tôi muốn nghề tương lai giúp ích cho cộng đồng/xã hội.]",
+        "value": 4
+      },
+      "AH": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr3: Tôi thích làm việc nhóm, mọi người cùng tham gia ý kiến.]",
+        "value": 3
+      },
+      "AI": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr4: Tôi thường giữ hòa khí, hạn chế xung đột.]",
+        "value": 5
+      },
+      "AJ": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye1: Tôi thích nghề đòi hỏi giải quyết vấn đề phức tạp.]",
+        "value": 3
+      },
+      "AK": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye2: Tôi coi trọng tự học liên tục, phát triển cả đời.]",
+        "value": 3
+      },
+      "AL": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye3: Tôi thường kết hợp nhiều ý tưởng/góc nhìn để tìm giải pháp.]",
+        "value": 5
+      },
+      "AM": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye4: Tôi linh hoạt đổi cách làm khi điều kiện thay đổi.]",
+        "value": 3
+      },
+      "AN": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye5: Tôi chỉ thích cách làm quen thuộc, không muốn thử mới.]",
+        "value": 5
+      },
+      "AO": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq1: Tôi quan tâm tác động lâu dài của nghề với xã hội/môi trường.]",
+        "value": 3
+      },
+      "AP": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq2: Tôi tin con người – xã hội – thiên nhiên có liên hệ chặt chẽ.]",
+        "value": 4
+      },
+      "AQ": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq3: Tôi muốn chọn nghề có ý nghĩa vượt lên lợi ích cá nhân.]",
+        "value": 2
+      },
+      "AR": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq4: Tôi sẵn sàng hợp tác đa ngành/đa văn hóa vì mục tiêu chung.]",
+        "value": 2
+      },
+      "AS": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq5: Tôi nghĩ các vấn đề toàn cầu (môi trường, bình đẳng) không liên quan đến chọn nghề của mình.]",
+        "value": 1
+      },
+      "AT": {
+        "header": "Bạn quan tâm tới ngành nghề nào? ( Nêu 1 ngành nghề cụ thể thôi để tôi tư vấn chuyên sâu cho bạn nha!)",
+        "value": ""
+      }
+    },
+    {
+      "A": {
+        "header": "Dấu thời gian",
+        "value": "2025-10-18T02:17:56.569Z"
+      },
+      "B": {
+        "header": "Tôi đã đọc những thông tin hướng dẫn trên và đồng ý tham gia thực hiện khảo sát này",
+        "value": "Đồng ý"
+      },
+      "C": {
+        "header": "1. Bạn thuộc giới tính nào?",
+        "value": "Nữ"
+      },
+      "D": {
+        "header": "2. Bạn là học sinh khối mấy? (năm học 2025 – 2026)",
+        "value": 10
+      },
+      "E": {
+        "header": "3. Bạn là học sinh trường nào?",
+        "value": "THPT Lương Thế Vinh"
+      },
+      "F": {
+        "header": "4. Trường của bạn thuộc mô hình nào?",
+        "value": "Công lập thường"
+      },
+      "G": {
+        "header": "5. Bạn học chương trình nào?",
+        "value": "Hệ Thường"
+      },
+      "H": {
+        "header": "6. Email (Giúp bạn có thể xem kết quả và so sánh với cộng đồng trên Dashboard",
+        "value": "tractueman2010@gmail.com"
+      },
+      "I": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be1: Khi nghĩ đến nghề, điều tôi quan tâm nhất là có thể tự nuôi sống bản thân.]",
+        "value": 5
+      },
+      "J": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be2: Tôi ưu tiên chọn nghề ít rủi ro, an toàn cho cuộc sống.]",
+        "value": 3
+      },
+      "K": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be3: Tôi thường ngại thay đổi lớn (chuyển ngành, đổi hướng).]",
+        "value": 3
+      },
+      "L": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be4: Tôi muốn có việc làm ổn định ngay sau khi ra trường.]",
+        "value": 3
+      },
+      "M": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be5: Tôi chấp nhận rủi ro, thử điều mới dù thiếu an toàn ban đầu.]",
+        "value": 4
+      },
+      "N": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu1: Tôi coi trọng ý kiến gia đình khi chọn nghề.]",
+        "value": 4
+      },
+      "O": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu2: Tôi muốn nghề gắn với truyền thống hoặc mong muốn của cha mẹ.]",
+        "value": 3
+      },
+      "P": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu3: Tôi thấy yên tâm khi chọn nghề quen thuộc với người thân.]",
+        "value": 1
+      },
+      "Q": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu4: Tôi tôn trọng lời khuyên của thầy cô/cha mẹ trong chọn nghề.]",
+        "value": 4
+      },
+      "R": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re1: Tôi muốn có nghề giúp tôi thể hiện bản thân, được công nhận.]",
+        "value": 5
+      },
+      "S": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re2: Tôi thích môi trường cạnh tranh, có người thắng – thua rõ ràng.]",
+        "value": 5
+      },
+      "T": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re3: Tôi hứng thú với những nghề cho phép quyết đoán, hành động nhanh.]",
+        "value": 3
+      },
+      "U": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re4: Tôi sẵn sàng mạo hiểm để đạt thành công nổi bật.]",
+        "value": 4
+      },
+      "V": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl1: Tôi muốn công việc có nội quy, quy định rõ ràng.]",
+        "value": 4
+      },
+      "W": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl2: Tôi thích nghề có lộ trình ổn định, lâu dài.]",
+        "value": 4
+      },
+      "X": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl3: Tôi thường tuân thủ kế hoạch học tập/làm việc đã đặt ra.]",
+        "value": 4
+      },
+      "Y": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl4: Tôi tôn trọng luật lệ, thẩm quyền trong học tập/công việc.]",
+        "value": 5
+      },
+      "Z": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl5: Tôi thấy khó chịu nếu có quá nhiều nội quy cứng nhắc.]",
+        "value": 3
+      },
+      "AA": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or1: Tôi thường đặt mục tiêu đo được bằng điểm/KPI/kết quả cụ thể.]",
+        "value": 4
+      },
+      "AB": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or2: Tôi thấy hứng thú khi có thử thách mới để vượt qua.]",
+        "value": 5
+      },
+      "AC": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or3: Tôi so sánh kết quả của mình với bạn để phấn đấu hơn.]",
+        "value": 3
+      },
+      "AD": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or4: Tôi quan tâm cách làm mới, hiệu quả hơn để đạt mục tiêu.]",
+        "value": 4
+      },
+      "AE": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or5: Tôi không thích áp lực thành tích, chỉ muốn làm vừa đủ.]",
+        "value": 1
+      },
+      "AF": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr1: Tôi coi trọng công bằng, tôn trọng khác biệt trong học tập/công việc.]",
+        "value": 5
+      },
+      "AG": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr2: Tôi muốn nghề tương lai giúp ích cho cộng đồng/xã hội.]",
+        "value": 5
+      },
+      "AH": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr3: Tôi thích làm việc nhóm, mọi người cùng tham gia ý kiến.]",
+        "value": 2
+      },
+      "AI": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr4: Tôi thường giữ hòa khí, hạn chế xung đột.]",
+        "value": 3
+      },
+      "AJ": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye1: Tôi thích nghề đòi hỏi giải quyết vấn đề phức tạp.]",
+        "value": 3
+      },
+      "AK": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye2: Tôi coi trọng tự học liên tục, phát triển cả đời.]",
+        "value": 5
+      },
+      "AL": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye3: Tôi thường kết hợp nhiều ý tưởng/góc nhìn để tìm giải pháp.]",
+        "value": 4
+      },
+      "AM": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye4: Tôi linh hoạt đổi cách làm khi điều kiện thay đổi.]",
+        "value": 4
+      },
+      "AN": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye5: Tôi chỉ thích cách làm quen thuộc, không muốn thử mới.]",
+        "value": 3
+      },
+      "AO": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq1: Tôi quan tâm tác động lâu dài của nghề với xã hội/môi trường.]",
+        "value": 4
+      },
+      "AP": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq2: Tôi tin con người – xã hội – thiên nhiên có liên hệ chặt chẽ.]",
+        "value": 5
+      },
+      "AQ": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq3: Tôi muốn chọn nghề có ý nghĩa vượt lên lợi ích cá nhân.]",
+        "value": 5
+      },
+      "AR": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq4: Tôi sẵn sàng hợp tác đa ngành/đa văn hóa vì mục tiêu chung.]",
+        "value": 5
+      },
+      "AS": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq5: Tôi nghĩ các vấn đề toàn cầu (môi trường, bình đẳng) không liên quan đến chọn nghề của mình.]",
+        "value": 1
+      },
+      "AT": {
+        "header": "Bạn quan tâm tới ngành nghề nào? ( Nêu 1 ngành nghề cụ thể thôi để tôi tư vấn chuyên sâu cho bạn nha!)",
+        "value": ""
+      }
+    },
+    {
+      "A": {
+        "header": "Dấu thời gian",
+        "value": "2025-10-18T02:20:40.613Z"
+      },
+      "B": {
+        "header": "Tôi đã đọc những thông tin hướng dẫn trên và đồng ý tham gia thực hiện khảo sát này",
+        "value": "Đồng ý"
+      },
+      "C": {
+        "header": "1. Bạn thuộc giới tính nào?",
+        "value": "Nữ"
+      },
+      "D": {
+        "header": "2. Bạn là học sinh khối mấy? (năm học 2025 – 2026)",
+        "value": 10
+      },
+      "E": {
+        "header": "3. Bạn là học sinh trường nào?",
+        "value": "THPT Lương Thế Vinh"
+      },
+      "F": {
+        "header": "4. Trường của bạn thuộc mô hình nào?",
+        "value": "Công lập thường"
+      },
+      "G": {
+        "header": "5. Bạn học chương trình nào?",
+        "value": "Hệ Thường"
+      },
+      "H": {
+        "header": "6. Email (Giúp bạn có thể xem kết quả và so sánh với cộng đồng trên Dashboard",
+        "value": "vuthiminhtam130710@gmail.com"
+      },
+      "I": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be1: Khi nghĩ đến nghề, điều tôi quan tâm nhất là có thể tự nuôi sống bản thân.]",
+        "value": 5
+      },
+      "J": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be2: Tôi ưu tiên chọn nghề ít rủi ro, an toàn cho cuộc sống.]",
+        "value": 3
+      },
+      "K": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be3: Tôi thường ngại thay đổi lớn (chuyển ngành, đổi hướng).]",
+        "value": 4
+      },
+      "L": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be4: Tôi muốn có việc làm ổn định ngay sau khi ra trường.]",
+        "value": 5
+      },
+      "M": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be5: Tôi chấp nhận rủi ro, thử điều mới dù thiếu an toàn ban đầu.]",
+        "value": 4
+      },
+      "N": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu1: Tôi coi trọng ý kiến gia đình khi chọn nghề.]",
+        "value": 3
+      },
+      "O": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu2: Tôi muốn nghề gắn với truyền thống hoặc mong muốn của cha mẹ.]",
+        "value": 3
+      },
+      "P": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu3: Tôi thấy yên tâm khi chọn nghề quen thuộc với người thân.]",
+        "value": 3
+      },
+      "Q": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu4: Tôi tôn trọng lời khuyên của thầy cô/cha mẹ trong chọn nghề.]",
+        "value": 4
+      },
+      "R": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re1: Tôi muốn có nghề giúp tôi thể hiện bản thân, được công nhận.]",
+        "value": 5
+      },
+      "S": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re2: Tôi thích môi trường cạnh tranh, có người thắng – thua rõ ràng.]",
+        "value": 3
+      },
+      "T": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re3: Tôi hứng thú với những nghề cho phép quyết đoán, hành động nhanh.]",
+        "value": 4
+      },
+      "U": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re4: Tôi sẵn sàng mạo hiểm để đạt thành công nổi bật.]",
+        "value": 3
+      },
+      "V": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl1: Tôi muốn công việc có nội quy, quy định rõ ràng.]",
+        "value": 5
+      },
+      "W": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl2: Tôi thích nghề có lộ trình ổn định, lâu dài.]",
+        "value": 5
+      },
+      "X": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl3: Tôi thường tuân thủ kế hoạch học tập/làm việc đã đặt ra.]",
+        "value": 4
+      },
+      "Y": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl4: Tôi tôn trọng luật lệ, thẩm quyền trong học tập/công việc.]",
+        "value": 3
+      },
+      "Z": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl5: Tôi thấy khó chịu nếu có quá nhiều nội quy cứng nhắc.]",
+        "value": 5
+      },
+      "AA": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or1: Tôi thường đặt mục tiêu đo được bằng điểm/KPI/kết quả cụ thể.]",
+        "value": 5
+      },
+      "AB": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or2: Tôi thấy hứng thú khi có thử thách mới để vượt qua.]",
+        "value": 4
+      },
+      "AC": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or3: Tôi so sánh kết quả của mình với bạn để phấn đấu hơn.]",
+        "value": 5
+      },
+      "AD": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or4: Tôi quan tâm cách làm mới, hiệu quả hơn để đạt mục tiêu.]",
+        "value": 3
+      },
+      "AE": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or5: Tôi không thích áp lực thành tích, chỉ muốn làm vừa đủ.]",
+        "value": 3
+      },
+      "AF": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr1: Tôi coi trọng công bằng, tôn trọng khác biệt trong học tập/công việc.]",
+        "value": 5
+      },
+      "AG": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr2: Tôi muốn nghề tương lai giúp ích cho cộng đồng/xã hội.]",
+        "value": 5
+      },
+      "AH": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr3: Tôi thích làm việc nhóm, mọi người cùng tham gia ý kiến.]",
+        "value": 4
+      },
+      "AI": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr4: Tôi thường giữ hòa khí, hạn chế xung đột.]",
+        "value": 3
+      },
+      "AJ": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye1: Tôi thích nghề đòi hỏi giải quyết vấn đề phức tạp.]",
+        "value": 2
+      },
+      "AK": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye2: Tôi coi trọng tự học liên tục, phát triển cả đời.]",
+        "value": 3
+      },
+      "AL": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye3: Tôi thường kết hợp nhiều ý tưởng/góc nhìn để tìm giải pháp.]",
+        "value": 4
+      },
+      "AM": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye4: Tôi linh hoạt đổi cách làm khi điều kiện thay đổi.]",
+        "value": 4
+      },
+      "AN": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye5: Tôi chỉ thích cách làm quen thuộc, không muốn thử mới.]",
+        "value": 2
+      },
+      "AO": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq1: Tôi quan tâm tác động lâu dài của nghề với xã hội/môi trường.]",
+        "value": 4
+      },
+      "AP": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq2: Tôi tin con người – xã hội – thiên nhiên có liên hệ chặt chẽ.]",
+        "value": 4
+      },
+      "AQ": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq3: Tôi muốn chọn nghề có ý nghĩa vượt lên lợi ích cá nhân.]",
+        "value": 5
+      },
+      "AR": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq4: Tôi sẵn sàng hợp tác đa ngành/đa văn hóa vì mục tiêu chung.]",
+        "value": 3
+      },
+      "AS": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq5: Tôi nghĩ các vấn đề toàn cầu (môi trường, bình đẳng) không liên quan đến chọn nghề của mình.]",
+        "value": 2
+      },
+      "AT": {
+        "header": "Bạn quan tâm tới ngành nghề nào? ( Nêu 1 ngành nghề cụ thể thôi để tôi tư vấn chuyên sâu cho bạn nha!)",
+        "value": ""
+      }
+    },
+    {
+      "A": {
+        "header": "Dấu thời gian",
+        "value": "2025-10-18T02:25:19.321Z"
+      },
+      "B": {
+        "header": "Tôi đã đọc những thông tin hướng dẫn trên và đồng ý tham gia thực hiện khảo sát này",
+        "value": "Đồng ý"
+      },
+      "C": {
+        "header": "1. Bạn thuộc giới tính nào?",
+        "value": "Nam"
+      },
+      "D": {
+        "header": "2. Bạn là học sinh khối mấy? (năm học 2025 – 2026)",
+        "value": 11
+      },
+      "E": {
+        "header": "3. Bạn là học sinh trường nào?",
+        "value": "Lương Thế Vinh"
+      },
+      "F": {
+        "header": "4. Trường của bạn thuộc mô hình nào?",
+        "value": "Công lập thường"
+      },
+      "G": {
+        "header": "5. Bạn học chương trình nào?",
+        "value": "Hệ Tích hợp"
+      },
+      "H": {
+        "header": "6. Email (Giúp bạn có thể xem kết quả và so sánh với cộng đồng trên Dashboard",
+        "value": "sinozi255@gmail.com"
+      },
+      "I": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be1: Khi nghĩ đến nghề, điều tôi quan tâm nhất là có thể tự nuôi sống bản thân.]",
+        "value": 4
+      },
+      "J": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be2: Tôi ưu tiên chọn nghề ít rủi ro, an toàn cho cuộc sống.]",
+        "value": 2
+      },
+      "K": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be3: Tôi thường ngại thay đổi lớn (chuyển ngành, đổi hướng).]",
+        "value": 3
+      },
+      "L": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be4: Tôi muốn có việc làm ổn định ngay sau khi ra trường.]",
+        "value": 3
+      },
+      "M": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be5: Tôi chấp nhận rủi ro, thử điều mới dù thiếu an toàn ban đầu.]",
+        "value": 4
+      },
+      "N": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu1: Tôi coi trọng ý kiến gia đình khi chọn nghề.]",
+        "value": 3
+      },
+      "O": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu2: Tôi muốn nghề gắn với truyền thống hoặc mong muốn của cha mẹ.]",
+        "value": 2
+      },
+      "P": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu3: Tôi thấy yên tâm khi chọn nghề quen thuộc với người thân.]",
+        "value": 3
+      },
+      "Q": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu4: Tôi tôn trọng lời khuyên của thầy cô/cha mẹ trong chọn nghề.]",
+        "value": 4
+      },
+      "R": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re1: Tôi muốn có nghề giúp tôi thể hiện bản thân, được công nhận.]",
+        "value": 3
+      },
+      "S": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re2: Tôi thích môi trường cạnh tranh, có người thắng – thua rõ ràng.]",
+        "value": 2
+      },
+      "T": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re3: Tôi hứng thú với những nghề cho phép quyết đoán, hành động nhanh.]",
+        "value": 4
+      },
+      "U": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re4: Tôi sẵn sàng mạo hiểm để đạt thành công nổi bật.]",
+        "value": 4
+      },
+      "V": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl1: Tôi muốn công việc có nội quy, quy định rõ ràng.]",
+        "value": 3
+      },
+      "W": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl2: Tôi thích nghề có lộ trình ổn định, lâu dài.]",
+        "value": 4
+      },
+      "X": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl3: Tôi thường tuân thủ kế hoạch học tập/làm việc đã đặt ra.]",
+        "value": 3
+      },
+      "Y": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl4: Tôi tôn trọng luật lệ, thẩm quyền trong học tập/công việc.]",
+        "value": 4
+      },
+      "Z": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl5: Tôi thấy khó chịu nếu có quá nhiều nội quy cứng nhắc.]",
+        "value": 4
+      },
+      "AA": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or1: Tôi thường đặt mục tiêu đo được bằng điểm/KPI/kết quả cụ thể.]",
+        "value": 4
+      },
+      "AB": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or2: Tôi thấy hứng thú khi có thử thách mới để vượt qua.]",
+        "value": 4
+      },
+      "AC": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or3: Tôi so sánh kết quả của mình với bạn để phấn đấu hơn.]",
+        "value": 2
+      },
+      "AD": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or4: Tôi quan tâm cách làm mới, hiệu quả hơn để đạt mục tiêu.]",
+        "value": 4
+      },
+      "AE": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or5: Tôi không thích áp lực thành tích, chỉ muốn làm vừa đủ.]",
+        "value": 3
+      },
+      "AF": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr1: Tôi coi trọng công bằng, tôn trọng khác biệt trong học tập/công việc.]",
+        "value": 4
+      },
+      "AG": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr2: Tôi muốn nghề tương lai giúp ích cho cộng đồng/xã hội.]",
+        "value": 3
+      },
+      "AH": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr3: Tôi thích làm việc nhóm, mọi người cùng tham gia ý kiến.]",
+        "value": 4
+      },
+      "AI": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr4: Tôi thường giữ hòa khí, hạn chế xung đột.]",
+        "value": 4
+      },
+      "AJ": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye1: Tôi thích nghề đòi hỏi giải quyết vấn đề phức tạp.]",
+        "value": 3
+      },
+      "AK": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye2: Tôi coi trọng tự học liên tục, phát triển cả đời.]",
+        "value": 4
+      },
+      "AL": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye3: Tôi thường kết hợp nhiều ý tưởng/góc nhìn để tìm giải pháp.]",
+        "value": 4
+      },
+      "AM": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye4: Tôi linh hoạt đổi cách làm khi điều kiện thay đổi.]",
+        "value": 4
+      },
+      "AN": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye5: Tôi chỉ thích cách làm quen thuộc, không muốn thử mới.]",
+        "value": 3
+      },
+      "AO": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq1: Tôi quan tâm tác động lâu dài của nghề với xã hội/môi trường.]",
+        "value": 4
+      },
+      "AP": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq2: Tôi tin con người – xã hội – thiên nhiên có liên hệ chặt chẽ.]",
+        "value": 4
+      },
+      "AQ": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq3: Tôi muốn chọn nghề có ý nghĩa vượt lên lợi ích cá nhân.]",
+        "value": 2
+      },
+      "AR": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq4: Tôi sẵn sàng hợp tác đa ngành/đa văn hóa vì mục tiêu chung.]",
+        "value": 4
+      },
+      "AS": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq5: Tôi nghĩ các vấn đề toàn cầu (môi trường, bình đẳng) không liên quan đến chọn nghề của mình.]",
+        "value": 4
+      },
+      "AT": {
+        "header": "Bạn quan tâm tới ngành nghề nào? ( Nêu 1 ngành nghề cụ thể thôi để tôi tư vấn chuyên sâu cho bạn nha!)",
+        "value": ""
+      }
+    },
+    {
+      "A": {
+        "header": "Dấu thời gian",
+        "value": "2025-10-18T02:30:53.762Z"
+      },
+      "B": {
+        "header": "Tôi đã đọc những thông tin hướng dẫn trên và đồng ý tham gia thực hiện khảo sát này",
+        "value": "Đồng ý"
+      },
+      "C": {
+        "header": "1. Bạn thuộc giới tính nào?",
+        "value": "Nam"
+      },
+      "D": {
+        "header": "2. Bạn là học sinh khối mấy? (năm học 2025 – 2026)",
+        "value": 10
+      },
+      "E": {
+        "header": "3. Bạn là học sinh trường nào?",
+        "value": "THPT Lương Thế Vinh"
+      },
+      "F": {
+        "header": "4. Trường của bạn thuộc mô hình nào?",
+        "value": "Công lập thường"
+      },
+      "G": {
+        "header": "5. Bạn học chương trình nào?",
+        "value": "Hệ Chuyên"
+      },
+      "H": {
+        "header": "6. Email (Giúp bạn có thể xem kết quả và so sánh với cộng đồng trên Dashboard",
+        "value": "ltthanh1015@gmail.com"
+      },
+      "I": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be1: Khi nghĩ đến nghề, điều tôi quan tâm nhất là có thể tự nuôi sống bản thân.]",
+        "value": 5
+      },
+      "J": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be2: Tôi ưu tiên chọn nghề ít rủi ro, an toàn cho cuộc sống.]",
+        "value": 5
+      },
+      "K": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be3: Tôi thường ngại thay đổi lớn (chuyển ngành, đổi hướng).]",
+        "value": 4
+      },
+      "L": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be4: Tôi muốn có việc làm ổn định ngay sau khi ra trường.]",
+        "value": 5
+      },
+      "M": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be5: Tôi chấp nhận rủi ro, thử điều mới dù thiếu an toàn ban đầu.]",
+        "value": 3
+      },
+      "N": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu1: Tôi coi trọng ý kiến gia đình khi chọn nghề.]",
+        "value": 4
+      },
+      "O": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu2: Tôi muốn nghề gắn với truyền thống hoặc mong muốn của cha mẹ.]",
+        "value": 3
+      },
+      "P": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu3: Tôi thấy yên tâm khi chọn nghề quen thuộc với người thân.]",
+        "value": 4
+      },
+      "Q": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu4: Tôi tôn trọng lời khuyên của thầy cô/cha mẹ trong chọn nghề.]",
+        "value": 4
+      },
+      "R": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re1: Tôi muốn có nghề giúp tôi thể hiện bản thân, được công nhận.]",
+        "value": 5
+      },
+      "S": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re2: Tôi thích môi trường cạnh tranh, có người thắng – thua rõ ràng.]",
+        "value": 4
+      },
+      "T": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re3: Tôi hứng thú với những nghề cho phép quyết đoán, hành động nhanh.]",
+        "value": 4
+      },
+      "U": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re4: Tôi sẵn sàng mạo hiểm để đạt thành công nổi bật.]",
+        "value": 3
+      },
+      "V": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl1: Tôi muốn công việc có nội quy, quy định rõ ràng.]",
+        "value": 4
+      },
+      "W": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl2: Tôi thích nghề có lộ trình ổn định, lâu dài.]",
+        "value": 4
+      },
+      "X": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl3: Tôi thường tuân thủ kế hoạch học tập/làm việc đã đặt ra.]",
+        "value": 4
+      },
+      "Y": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl4: Tôi tôn trọng luật lệ, thẩm quyền trong học tập/công việc.]",
+        "value": 4
+      },
+      "Z": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl5: Tôi thấy khó chịu nếu có quá nhiều nội quy cứng nhắc.]",
+        "value": 2
+      },
+      "AA": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or1: Tôi thường đặt mục tiêu đo được bằng điểm/KPI/kết quả cụ thể.]",
+        "value": 4
+      },
+      "AB": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or2: Tôi thấy hứng thú khi có thử thách mới để vượt qua.]",
+        "value": 5
+      },
+      "AC": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or3: Tôi so sánh kết quả của mình với bạn để phấn đấu hơn.]",
+        "value": 2
+      },
+      "AD": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or4: Tôi quan tâm cách làm mới, hiệu quả hơn để đạt mục tiêu.]",
+        "value": 5
+      },
+      "AE": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or5: Tôi không thích áp lực thành tích, chỉ muốn làm vừa đủ.]",
+        "value": 3
+      },
+      "AF": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr1: Tôi coi trọng công bằng, tôn trọng khác biệt trong học tập/công việc.]",
+        "value": 4
+      },
+      "AG": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr2: Tôi muốn nghề tương lai giúp ích cho cộng đồng/xã hội.]",
+        "value": 5
+      },
+      "AH": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr3: Tôi thích làm việc nhóm, mọi người cùng tham gia ý kiến.]",
+        "value": 3
+      },
+      "AI": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr4: Tôi thường giữ hòa khí, hạn chế xung đột.]",
+        "value": 4
+      },
+      "AJ": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye1: Tôi thích nghề đòi hỏi giải quyết vấn đề phức tạp.]",
+        "value": 3
+      },
+      "AK": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye2: Tôi coi trọng tự học liên tục, phát triển cả đời.]",
+        "value": 5
+      },
+      "AL": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye3: Tôi thường kết hợp nhiều ý tưởng/góc nhìn để tìm giải pháp.]",
+        "value": 4
+      },
+      "AM": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye4: Tôi linh hoạt đổi cách làm khi điều kiện thay đổi.]",
+        "value": 4
+      },
+      "AN": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye5: Tôi chỉ thích cách làm quen thuộc, không muốn thử mới.]",
+        "value": 3
+      },
+      "AO": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq1: Tôi quan tâm tác động lâu dài của nghề với xã hội/môi trường.]",
+        "value": 5
+      },
+      "AP": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq2: Tôi tin con người – xã hội – thiên nhiên có liên hệ chặt chẽ.]",
+        "value": 5
+      },
+      "AQ": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq3: Tôi muốn chọn nghề có ý nghĩa vượt lên lợi ích cá nhân.]",
+        "value": 5
+      },
+      "AR": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq4: Tôi sẵn sàng hợp tác đa ngành/đa văn hóa vì mục tiêu chung.]",
+        "value": 4
+      },
+      "AS": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq5: Tôi nghĩ các vấn đề toàn cầu (môi trường, bình đẳng) không liên quan đến chọn nghề của mình.]",
+        "value": 1
+      },
+      "AT": {
+        "header": "Bạn quan tâm tới ngành nghề nào? ( Nêu 1 ngành nghề cụ thể thôi để tôi tư vấn chuyên sâu cho bạn nha!)",
+        "value": ""
+      }
+    },
+    {
+      "A": {
+        "header": "Dấu thời gian",
+        "value": "2025-10-18T02:46:40.500Z"
+      },
+      "B": {
+        "header": "Tôi đã đọc những thông tin hướng dẫn trên và đồng ý tham gia thực hiện khảo sát này",
+        "value": "Đồng ý"
+      },
+      "C": {
+        "header": "1. Bạn thuộc giới tính nào?",
+        "value": "Nữ"
+      },
+      "D": {
+        "header": "2. Bạn là học sinh khối mấy? (năm học 2025 – 2026)",
+        "value": 10
+      },
+      "E": {
+        "header": "3. Bạn là học sinh trường nào?",
+        "value": "Nguyễn Trãi"
+      },
+      "F": {
+        "header": "4. Trường của bạn thuộc mô hình nào?",
+        "value": "Công lập thường"
+      },
+      "G": {
+        "header": "5. Bạn học chương trình nào?",
+        "value": "Hệ Thường"
+      },
+      "H": {
+        "header": "6. Email (Giúp bạn có thể xem kết quả và so sánh với cộng đồng trên Dashboard",
+        "value": "Bacarot2002@gmail.com"
+      },
+      "I": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be1: Khi nghĩ đến nghề, điều tôi quan tâm nhất là có thể tự nuôi sống bản thân.]",
+        "value": 4
+      },
+      "J": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be2: Tôi ưu tiên chọn nghề ít rủi ro, an toàn cho cuộc sống.]",
+        "value": 4
+      },
+      "K": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be3: Tôi thường ngại thay đổi lớn (chuyển ngành, đổi hướng).]",
+        "value": 3
+      },
+      "L": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be4: Tôi muốn có việc làm ổn định ngay sau khi ra trường.]",
+        "value": 4
+      },
+      "M": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be5: Tôi chấp nhận rủi ro, thử điều mới dù thiếu an toàn ban đầu.]",
+        "value": 2
+      },
+      "N": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu1: Tôi coi trọng ý kiến gia đình khi chọn nghề.]",
+        "value": 4
+      },
+      "O": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu2: Tôi muốn nghề gắn với truyền thống hoặc mong muốn của cha mẹ.]",
+        "value": 1
+      },
+      "P": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu3: Tôi thấy yên tâm khi chọn nghề quen thuộc với người thân.]",
+        "value": 1
+      },
+      "Q": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu4: Tôi tôn trọng lời khuyên của thầy cô/cha mẹ trong chọn nghề.]",
+        "value": 3
+      },
+      "R": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re1: Tôi muốn có nghề giúp tôi thể hiện bản thân, được công nhận.]",
+        "value": 3
+      },
+      "S": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re2: Tôi thích môi trường cạnh tranh, có người thắng – thua rõ ràng.]",
+        "value": 1
+      },
+      "T": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re3: Tôi hứng thú với những nghề cho phép quyết đoán, hành động nhanh.]",
+        "value": 3
+      },
+      "U": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re4: Tôi sẵn sàng mạo hiểm để đạt thành công nổi bật.]",
+        "value": 2
+      },
+      "V": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl1: Tôi muốn công việc có nội quy, quy định rõ ràng.]",
+        "value": 3
+      },
+      "W": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl2: Tôi thích nghề có lộ trình ổn định, lâu dài.]",
+        "value": 4
+      },
+      "X": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl3: Tôi thường tuân thủ kế hoạch học tập/làm việc đã đặt ra.]",
+        "value": 3
+      },
+      "Y": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl4: Tôi tôn trọng luật lệ, thẩm quyền trong học tập/công việc.]",
+        "value": 4
+      },
+      "Z": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl5: Tôi thấy khó chịu nếu có quá nhiều nội quy cứng nhắc.]",
+        "value": 2
+      },
+      "AA": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or1: Tôi thường đặt mục tiêu đo được bằng điểm/KPI/kết quả cụ thể.]",
+        "value": 2
+      },
+      "AB": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or2: Tôi thấy hứng thú khi có thử thách mới để vượt qua.]",
+        "value": 3
+      },
+      "AC": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or3: Tôi so sánh kết quả của mình với bạn để phấn đấu hơn.]",
+        "value": 3
+      },
+      "AD": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or4: Tôi quan tâm cách làm mới, hiệu quả hơn để đạt mục tiêu.]",
+        "value": 3
+      },
+      "AE": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or5: Tôi không thích áp lực thành tích, chỉ muốn làm vừa đủ.]",
+        "value": 4
+      },
+      "AF": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr1: Tôi coi trọng công bằng, tôn trọng khác biệt trong học tập/công việc.]",
+        "value": 4
+      },
+      "AG": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr2: Tôi muốn nghề tương lai giúp ích cho cộng đồng/xã hội.]",
+        "value": 2
+      },
+      "AH": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr3: Tôi thích làm việc nhóm, mọi người cùng tham gia ý kiến.]",
+        "value": 1
+      },
+      "AI": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr4: Tôi thường giữ hòa khí, hạn chế xung đột.]",
+        "value": 4
+      },
+      "AJ": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye1: Tôi thích nghề đòi hỏi giải quyết vấn đề phức tạp.]",
+        "value": 2
+      },
+      "AK": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye2: Tôi coi trọng tự học liên tục, phát triển cả đời.]",
+        "value": 2
+      },
+      "AL": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye3: Tôi thường kết hợp nhiều ý tưởng/góc nhìn để tìm giải pháp.]",
+        "value": 3
+      },
+      "AM": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye4: Tôi linh hoạt đổi cách làm khi điều kiện thay đổi.]",
+        "value": 2
+      },
+      "AN": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye5: Tôi chỉ thích cách làm quen thuộc, không muốn thử mới.]",
+        "value": 3
+      },
+      "AO": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq1: Tôi quan tâm tác động lâu dài của nghề với xã hội/môi trường.]",
+        "value": 2
+      },
+      "AP": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq2: Tôi tin con người – xã hội – thiên nhiên có liên hệ chặt chẽ.]",
+        "value": 4
+      },
+      "AQ": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq3: Tôi muốn chọn nghề có ý nghĩa vượt lên lợi ích cá nhân.]",
+        "value": 2
+      },
+      "AR": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq4: Tôi sẵn sàng hợp tác đa ngành/đa văn hóa vì mục tiêu chung.]",
+        "value": 2
+      },
+      "AS": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq5: Tôi nghĩ các vấn đề toàn cầu (môi trường, bình đẳng) không liên quan đến chọn nghề của mình.]",
+        "value": 4
+      },
+      "AT": {
+        "header": "Bạn quan tâm tới ngành nghề nào? ( Nêu 1 ngành nghề cụ thể thôi để tôi tư vấn chuyên sâu cho bạn nha!)",
+        "value": ""
+      }
+    },
+    {
+      "A": {
+        "header": "Dấu thời gian",
+        "value": "2025-10-23T06:52:23.560Z"
+      },
+      "B": {
+        "header": "Tôi đã đọc những thông tin hướng dẫn trên và đồng ý tham gia thực hiện khảo sát này",
+        "value": "Đồng ý"
+      },
+      "C": {
+        "header": "1. Bạn thuộc giới tính nào?",
+        "value": "Nam"
+      },
+      "D": {
+        "header": "2. Bạn là học sinh khối mấy? (năm học 2025 – 2026)",
+        "value": 11
+      },
+      "E": {
+        "header": "3. Bạn là học sinh trường nào?",
+        "value": "THPT Lương Thế Vinh"
+      },
+      "F": {
+        "header": "4. Trường của bạn thuộc mô hình nào?",
+        "value": "Công lập thường"
+      },
+      "G": {
+        "header": "5. Bạn học chương trình nào?",
+        "value": "Hệ Thường"
+      },
+      "H": {
+        "header": "6. Email (Giúp bạn có thể xem kết quả và so sánh với cộng đồng trên Dashboard",
+        "value": "thaiducminh09@gmail.com"
+      },
+      "I": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be1: Khi nghĩ đến nghề, điều tôi quan tâm nhất là có thể tự nuôi sống bản thân.]",
+        "value": 5
+      },
+      "J": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be2: Tôi ưu tiên chọn nghề ít rủi ro, an toàn cho cuộc sống.]",
+        "value": 3
+      },
+      "K": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be3: Tôi thường ngại thay đổi lớn (chuyển ngành, đổi hướng).]",
+        "value": 4
+      },
+      "L": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be4: Tôi muốn có việc làm ổn định ngay sau khi ra trường.]",
+        "value": 5
+      },
+      "M": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be5: Tôi chấp nhận rủi ro, thử điều mới dù thiếu an toàn ban đầu.]",
+        "value": 3
+      },
+      "N": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu1: Tôi coi trọng ý kiến gia đình khi chọn nghề.]",
+        "value": 4
+      },
+      "O": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu2: Tôi muốn nghề gắn với truyền thống hoặc mong muốn của cha mẹ.]",
+        "value": 2
+      },
+      "P": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu3: Tôi thấy yên tâm khi chọn nghề quen thuộc với người thân.]",
+        "value": 3
+      },
+      "Q": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu4: Tôi tôn trọng lời khuyên của thầy cô/cha mẹ trong chọn nghề.]",
+        "value": 3
+      },
+      "R": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re1: Tôi muốn có nghề giúp tôi thể hiện bản thân, được công nhận.]",
+        "value": 5
+      },
+      "S": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re2: Tôi thích môi trường cạnh tranh, có người thắng – thua rõ ràng.]",
+        "value": 3
+      },
+      "T": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re3: Tôi hứng thú với những nghề cho phép quyết đoán, hành động nhanh.]",
+        "value": 3
+      },
+      "U": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re4: Tôi sẵn sàng mạo hiểm để đạt thành công nổi bật.]",
+        "value": 4
+      },
+      "V": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl1: Tôi muốn công việc có nội quy, quy định rõ ràng.]",
+        "value": 4
+      },
+      "W": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl2: Tôi thích nghề có lộ trình ổn định, lâu dài.]",
+        "value": 5
+      },
+      "X": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl3: Tôi thường tuân thủ kế hoạch học tập/làm việc đã đặt ra.]",
+        "value": 3
+      },
+      "Y": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl4: Tôi tôn trọng luật lệ, thẩm quyền trong học tập/công việc.]",
+        "value": 4
+      },
+      "Z": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl5: Tôi thấy khó chịu nếu có quá nhiều nội quy cứng nhắc.]",
+        "value": 4
+      },
+      "AA": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or1: Tôi thường đặt mục tiêu đo được bằng điểm/KPI/kết quả cụ thể.]",
+        "value": 2
+      },
+      "AB": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or2: Tôi thấy hứng thú khi có thử thách mới để vượt qua.]",
+        "value": 3
+      },
+      "AC": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or3: Tôi so sánh kết quả của mình với bạn để phấn đấu hơn.]",
+        "value": 5
+      },
+      "AD": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or4: Tôi quan tâm cách làm mới, hiệu quả hơn để đạt mục tiêu.]",
+        "value": 4
+      },
+      "AE": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or5: Tôi không thích áp lực thành tích, chỉ muốn làm vừa đủ.]",
+        "value": 2
+      },
+      "AF": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr1: Tôi coi trọng công bằng, tôn trọng khác biệt trong học tập/công việc.]",
+        "value": 5
+      },
+      "AG": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr2: Tôi muốn nghề tương lai giúp ích cho cộng đồng/xã hội.]",
+        "value": 5
+      },
+      "AH": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr3: Tôi thích làm việc nhóm, mọi người cùng tham gia ý kiến.]",
+        "value": 5
+      },
+      "AI": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr4: Tôi thường giữ hòa khí, hạn chế xung đột.]",
+        "value": 5
+      },
+      "AJ": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye1: Tôi thích nghề đòi hỏi giải quyết vấn đề phức tạp.]",
+        "value": 4
+      },
+      "AK": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye2: Tôi coi trọng tự học liên tục, phát triển cả đời.]",
+        "value": 4
+      },
+      "AL": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye3: Tôi thường kết hợp nhiều ý tưởng/góc nhìn để tìm giải pháp.]",
+        "value": 5
+      },
+      "AM": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye4: Tôi linh hoạt đổi cách làm khi điều kiện thay đổi.]",
+        "value": 4
+      },
+      "AN": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye5: Tôi chỉ thích cách làm quen thuộc, không muốn thử mới.]",
+        "value": 3
+      },
+      "AO": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq1: Tôi quan tâm tác động lâu dài của nghề với xã hội/môi trường.]",
+        "value": 5
+      },
+      "AP": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq2: Tôi tin con người – xã hội – thiên nhiên có liên hệ chặt chẽ.]",
+        "value": 5
+      },
+      "AQ": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq3: Tôi muốn chọn nghề có ý nghĩa vượt lên lợi ích cá nhân.]",
+        "value": 5
+      },
+      "AR": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq4: Tôi sẵn sàng hợp tác đa ngành/đa văn hóa vì mục tiêu chung.]",
+        "value": 5
+      },
+      "AS": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq5: Tôi nghĩ các vấn đề toàn cầu (môi trường, bình đẳng) không liên quan đến chọn nghề của mình.]",
+        "value": 4
+      },
+      "AT": {
+        "header": "Bạn quan tâm tới ngành nghề nào? ( Nêu 1 ngành nghề cụ thể thôi để tôi tư vấn chuyên sâu cho bạn nha!)",
+        "value": ""
+      }
+    },
+    {
+      "A": {
+        "header": "Dấu thời gian",
+        "value": "2025-10-24T05:38:01.059Z"
+      },
+      "B": {
+        "header": "Tôi đã đọc những thông tin hướng dẫn trên và đồng ý tham gia thực hiện khảo sát này",
+        "value": "Đồng ý"
+      },
+      "C": {
+        "header": "1. Bạn thuộc giới tính nào?",
+        "value": "Nữ"
+      },
+      "D": {
+        "header": "2. Bạn là học sinh khối mấy? (năm học 2025 – 2026)",
+        "value": 12
+      },
+      "E": {
+        "header": "3. Bạn là học sinh trường nào?",
+        "value": "thpt lương thế vinh"
+      },
+      "F": {
+        "header": "4. Trường của bạn thuộc mô hình nào?",
+        "value": "Công lập thường"
+      },
+      "G": {
+        "header": "5. Bạn học chương trình nào?",
+        "value": "Hệ Thường"
+      },
+      "H": {
+        "header": "6. Email (Giúp bạn có thể xem kết quả và so sánh với cộng đồng trên Dashboard",
+        "value": "vvy5173@gmail.com"
+      },
+      "I": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be1: Khi nghĩ đến nghề, điều tôi quan tâm nhất là có thể tự nuôi sống bản thân.]",
+        "value": 4
+      },
+      "J": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be2: Tôi ưu tiên chọn nghề ít rủi ro, an toàn cho cuộc sống.]",
+        "value": 4
+      },
+      "K": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be3: Tôi thường ngại thay đổi lớn (chuyển ngành, đổi hướng).]",
+        "value": 5
+      },
+      "L": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be4: Tôi muốn có việc làm ổn định ngay sau khi ra trường.]",
+        "value": 5
+      },
+      "M": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be5: Tôi chấp nhận rủi ro, thử điều mới dù thiếu an toàn ban đầu.]",
+        "value": 3
+      },
+      "N": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu1: Tôi coi trọng ý kiến gia đình khi chọn nghề.]",
+        "value": 2
+      },
+      "O": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu2: Tôi muốn nghề gắn với truyền thống hoặc mong muốn của cha mẹ.]",
+        "value": 3
+      },
+      "P": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu3: Tôi thấy yên tâm khi chọn nghề quen thuộc với người thân.]",
+        "value": 3
+      },
+      "Q": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu4: Tôi tôn trọng lời khuyên của thầy cô/cha mẹ trong chọn nghề.]",
+        "value": 3
+      },
+      "R": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re1: Tôi muốn có nghề giúp tôi thể hiện bản thân, được công nhận.]",
+        "value": 4
+      },
+      "S": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re2: Tôi thích môi trường cạnh tranh, có người thắng – thua rõ ràng.]",
+        "value": 4
+      },
+      "T": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re3: Tôi hứng thú với những nghề cho phép quyết đoán, hành động nhanh.]",
+        "value": 2
+      },
+      "U": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re4: Tôi sẵn sàng mạo hiểm để đạt thành công nổi bật.]",
+        "value": 3
+      },
+      "V": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl1: Tôi muốn công việc có nội quy, quy định rõ ràng.]",
+        "value": 4
+      },
+      "W": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl2: Tôi thích nghề có lộ trình ổn định, lâu dài.]",
+        "value": 4
+      },
+      "X": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl3: Tôi thường tuân thủ kế hoạch học tập/làm việc đã đặt ra.]",
+        "value": 4
+      },
+      "Y": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl4: Tôi tôn trọng luật lệ, thẩm quyền trong học tập/công việc.]",
+        "value": 3
+      },
+      "Z": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl5: Tôi thấy khó chịu nếu có quá nhiều nội quy cứng nhắc.]",
+        "value": 5
+      },
+      "AA": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or1: Tôi thường đặt mục tiêu đo được bằng điểm/KPI/kết quả cụ thể.]",
+        "value": 3
+      },
+      "AB": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or2: Tôi thấy hứng thú khi có thử thách mới để vượt qua.]",
+        "value": 2
+      },
+      "AC": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or3: Tôi so sánh kết quả của mình với bạn để phấn đấu hơn.]",
+        "value": 1
+      },
+      "AD": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or4: Tôi quan tâm cách làm mới, hiệu quả hơn để đạt mục tiêu.]",
+        "value": 4
+      },
+      "AE": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or5: Tôi không thích áp lực thành tích, chỉ muốn làm vừa đủ.]",
+        "value": 3
+      },
+      "AF": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr1: Tôi coi trọng công bằng, tôn trọng khác biệt trong học tập/công việc.]",
+        "value": 5
+      },
+      "AG": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr2: Tôi muốn nghề tương lai giúp ích cho cộng đồng/xã hội.]",
+        "value": 4
+      },
+      "AH": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr3: Tôi thích làm việc nhóm, mọi người cùng tham gia ý kiến.]",
+        "value": 2
+      },
+      "AI": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr4: Tôi thường giữ hòa khí, hạn chế xung đột.]",
+        "value": 5
+      },
+      "AJ": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye1: Tôi thích nghề đòi hỏi giải quyết vấn đề phức tạp.]",
+        "value": 3
+      },
+      "AK": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye2: Tôi coi trọng tự học liên tục, phát triển cả đời.]",
+        "value": 4
+      },
+      "AL": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye3: Tôi thường kết hợp nhiều ý tưởng/góc nhìn để tìm giải pháp.]",
+        "value": 5
+      },
+      "AM": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye4: Tôi linh hoạt đổi cách làm khi điều kiện thay đổi.]",
+        "value": 3
+      },
+      "AN": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye5: Tôi chỉ thích cách làm quen thuộc, không muốn thử mới.]",
+        "value": 4
+      },
+      "AO": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq1: Tôi quan tâm tác động lâu dài của nghề với xã hội/môi trường.]",
+        "value": 5
+      },
+      "AP": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq2: Tôi tin con người – xã hội – thiên nhiên có liên hệ chặt chẽ.]",
+        "value": 4
+      },
+      "AQ": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq3: Tôi muốn chọn nghề có ý nghĩa vượt lên lợi ích cá nhân.]",
+        "value": 4
+      },
+      "AR": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq4: Tôi sẵn sàng hợp tác đa ngành/đa văn hóa vì mục tiêu chung.]",
+        "value": 3
+      },
+      "AS": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq5: Tôi nghĩ các vấn đề toàn cầu (môi trường, bình đẳng) không liên quan đến chọn nghề của mình.]",
+        "value": 2
+      },
+      "AT": {
+        "header": "Bạn quan tâm tới ngành nghề nào? ( Nêu 1 ngành nghề cụ thể thôi để tôi tư vấn chuyên sâu cho bạn nha!)",
+        "value": ""
+      }
+    },
+    {
+      "A": {
+        "header": "Dấu thời gian",
+        "value": "2025-10-24T08:34:18.250Z"
+      },
+      "B": {
+        "header": "Tôi đã đọc những thông tin hướng dẫn trên và đồng ý tham gia thực hiện khảo sát này",
+        "value": "Đồng ý"
+      },
+      "C": {
+        "header": "1. Bạn thuộc giới tính nào?",
+        "value": "Nữ"
+      },
+      "D": {
+        "header": "2. Bạn là học sinh khối mấy? (năm học 2025 – 2026)",
+        "value": 12
+      },
+      "E": {
+        "header": "3. Bạn là học sinh trường nào?",
+        "value": "THPT Lương Thế Vinh "
+      },
+      "F": {
+        "header": "4. Trường của bạn thuộc mô hình nào?",
+        "value": "Công lập thường"
+      },
+      "G": {
+        "header": "5. Bạn học chương trình nào?",
+        "value": "Hệ Thường"
+      },
+      "H": {
+        "header": "6. Email (Giúp bạn có thể xem kết quả và so sánh với cộng đồng trên Dashboard",
+        "value": "tt.thaothanh0808@gmail.com"
+      },
+      "I": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be1: Khi nghĩ đến nghề, điều tôi quan tâm nhất là có thể tự nuôi sống bản thân.]",
+        "value": 4
+      },
+      "J": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be2: Tôi ưu tiên chọn nghề ít rủi ro, an toàn cho cuộc sống.]",
+        "value": 4
+      },
+      "K": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be3: Tôi thường ngại thay đổi lớn (chuyển ngành, đổi hướng).]",
+        "value": 4
+      },
+      "L": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be4: Tôi muốn có việc làm ổn định ngay sau khi ra trường.]",
+        "value": 4
+      },
+      "M": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be5: Tôi chấp nhận rủi ro, thử điều mới dù thiếu an toàn ban đầu.]",
+        "value": 3
+      },
+      "N": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu1: Tôi coi trọng ý kiến gia đình khi chọn nghề.]",
+        "value": 3
+      },
+      "O": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu2: Tôi muốn nghề gắn với truyền thống hoặc mong muốn của cha mẹ.]",
+        "value": 2
+      },
+      "P": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu3: Tôi thấy yên tâm khi chọn nghề quen thuộc với người thân.]",
+        "value": 3
+      },
+      "Q": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu4: Tôi tôn trọng lời khuyên của thầy cô/cha mẹ trong chọn nghề.]",
+        "value": 5
+      },
+      "R": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re1: Tôi muốn có nghề giúp tôi thể hiện bản thân, được công nhận.]",
+        "value": 5
+      },
+      "S": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re2: Tôi thích môi trường cạnh tranh, có người thắng – thua rõ ràng.]",
+        "value": 3
+      },
+      "T": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re3: Tôi hứng thú với những nghề cho phép quyết đoán, hành động nhanh.]",
+        "value": 3
+      },
+      "U": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re4: Tôi sẵn sàng mạo hiểm để đạt thành công nổi bật.]",
+        "value": 3
+      },
+      "V": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl1: Tôi muốn công việc có nội quy, quy định rõ ràng.]",
+        "value": 5
+      },
+      "W": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl2: Tôi thích nghề có lộ trình ổn định, lâu dài.]",
+        "value": 5
+      },
+      "X": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl3: Tôi thường tuân thủ kế hoạch học tập/làm việc đã đặt ra.]",
+        "value": 4
+      },
+      "Y": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl4: Tôi tôn trọng luật lệ, thẩm quyền trong học tập/công việc.]",
+        "value": 5
+      },
+      "Z": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl5: Tôi thấy khó chịu nếu có quá nhiều nội quy cứng nhắc.]",
+        "value": 3
+      },
+      "AA": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or1: Tôi thường đặt mục tiêu đo được bằng điểm/KPI/kết quả cụ thể.]",
+        "value": 3
+      },
+      "AB": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or2: Tôi thấy hứng thú khi có thử thách mới để vượt qua.]",
+        "value": 3
+      },
+      "AC": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or3: Tôi so sánh kết quả của mình với bạn để phấn đấu hơn.]",
+        "value": 3
+      },
+      "AD": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or4: Tôi quan tâm cách làm mới, hiệu quả hơn để đạt mục tiêu.]",
+        "value": 5
+      },
+      "AE": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or5: Tôi không thích áp lực thành tích, chỉ muốn làm vừa đủ.]",
+        "value": 1
+      },
+      "AF": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr1: Tôi coi trọng công bằng, tôn trọng khác biệt trong học tập/công việc.]",
+        "value": 5
+      },
+      "AG": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr2: Tôi muốn nghề tương lai giúp ích cho cộng đồng/xã hội.]",
+        "value": 5
+      },
+      "AH": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr3: Tôi thích làm việc nhóm, mọi người cùng tham gia ý kiến.]",
+        "value": 3
+      },
+      "AI": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr4: Tôi thường giữ hòa khí, hạn chế xung đột.]",
+        "value": 5
+      },
+      "AJ": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye1: Tôi thích nghề đòi hỏi giải quyết vấn đề phức tạp.]",
+        "value": 3
+      },
+      "AK": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye2: Tôi coi trọng tự học liên tục, phát triển cả đời.]",
+        "value": 5
+      },
+      "AL": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye3: Tôi thường kết hợp nhiều ý tưởng/góc nhìn để tìm giải pháp.]",
+        "value": 4
+      },
+      "AM": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye4: Tôi linh hoạt đổi cách làm khi điều kiện thay đổi.]",
+        "value": 4
+      },
+      "AN": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye5: Tôi chỉ thích cách làm quen thuộc, không muốn thử mới.]",
+        "value": 2
+      },
+      "AO": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq1: Tôi quan tâm tác động lâu dài của nghề với xã hội/môi trường.]",
+        "value": 5
+      },
+      "AP": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq2: Tôi tin con người – xã hội – thiên nhiên có liên hệ chặt chẽ.]",
+        "value": 4
+      },
+      "AQ": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq3: Tôi muốn chọn nghề có ý nghĩa vượt lên lợi ích cá nhân.]",
+        "value": 3
+      },
+      "AR": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq4: Tôi sẵn sàng hợp tác đa ngành/đa văn hóa vì mục tiêu chung.]",
+        "value": 5
+      },
+      "AS": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq5: Tôi nghĩ các vấn đề toàn cầu (môi trường, bình đẳng) không liên quan đến chọn nghề của mình.]",
+        "value": 3
+      },
+      "AT": {
+        "header": "Bạn quan tâm tới ngành nghề nào? ( Nêu 1 ngành nghề cụ thể thôi để tôi tư vấn chuyên sâu cho bạn nha!)",
+        "value": ""
+      }
+    },
+    {
+      "A": {
+        "header": "Dấu thời gian",
+        "value": "2025-10-24T10:11:04.651Z"
+      },
+      "B": {
+        "header": "Tôi đã đọc những thông tin hướng dẫn trên và đồng ý tham gia thực hiện khảo sát này",
+        "value": "Đồng ý"
+      },
+      "C": {
+        "header": "1. Bạn thuộc giới tính nào?",
+        "value": "Nữ"
+      },
+      "D": {
+        "header": "2. Bạn là học sinh khối mấy? (năm học 2025 – 2026)",
+        "value": 12
+      },
+      "E": {
+        "header": "3. Bạn là học sinh trường nào?",
+        "value": "Thpt Lương Thế Vinh"
+      },
+      "F": {
+        "header": "4. Trường của bạn thuộc mô hình nào?",
+        "value": "Công lập thường"
+      },
+      "G": {
+        "header": "5. Bạn học chương trình nào?",
+        "value": "Hệ Thường"
+      },
+      "H": {
+        "header": "6. Email (Giúp bạn có thể xem kết quả và so sánh với cộng đồng trên Dashboard",
+        "value": "nguyenhoangthaonghi2710088@gmail.com"
+      },
+      "I": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be1: Khi nghĩ đến nghề, điều tôi quan tâm nhất là có thể tự nuôi sống bản thân.]",
+        "value": 4
+      },
+      "J": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be2: Tôi ưu tiên chọn nghề ít rủi ro, an toàn cho cuộc sống.]",
+        "value": 4
+      },
+      "K": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be3: Tôi thường ngại thay đổi lớn (chuyển ngành, đổi hướng).]",
+        "value": 4
+      },
+      "L": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be4: Tôi muốn có việc làm ổn định ngay sau khi ra trường.]",
+        "value": 5
+      },
+      "M": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be5: Tôi chấp nhận rủi ro, thử điều mới dù thiếu an toàn ban đầu.]",
+        "value": 3
+      },
+      "N": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu1: Tôi coi trọng ý kiến gia đình khi chọn nghề.]",
+        "value": 4
+      },
+      "O": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu2: Tôi muốn nghề gắn với truyền thống hoặc mong muốn của cha mẹ.]",
+        "value": 3
+      },
+      "P": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu3: Tôi thấy yên tâm khi chọn nghề quen thuộc với người thân.]",
+        "value": 3
+      },
+      "Q": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu4: Tôi tôn trọng lời khuyên của thầy cô/cha mẹ trong chọn nghề.]",
+        "value": 4
+      },
+      "R": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re1: Tôi muốn có nghề giúp tôi thể hiện bản thân, được công nhận.]",
+        "value": 5
+      },
+      "S": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re2: Tôi thích môi trường cạnh tranh, có người thắng – thua rõ ràng.]",
+        "value": 3
+      },
+      "T": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re3: Tôi hứng thú với những nghề cho phép quyết đoán, hành động nhanh.]",
+        "value": 3
+      },
+      "U": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re4: Tôi sẵn sàng mạo hiểm để đạt thành công nổi bật.]",
+        "value": 3
+      },
+      "V": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl1: Tôi muốn công việc có nội quy, quy định rõ ràng.]",
+        "value": 4
+      },
+      "W": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl2: Tôi thích nghề có lộ trình ổn định, lâu dài.]",
+        "value": 5
+      },
+      "X": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl3: Tôi thường tuân thủ kế hoạch học tập/làm việc đã đặt ra.]",
+        "value": 4
+      },
+      "Y": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl4: Tôi tôn trọng luật lệ, thẩm quyền trong học tập/công việc.]",
+        "value": 5
+      },
+      "Z": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl5: Tôi thấy khó chịu nếu có quá nhiều nội quy cứng nhắc.]",
+        "value": 4
+      },
+      "AA": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or1: Tôi thường đặt mục tiêu đo được bằng điểm/KPI/kết quả cụ thể.]",
+        "value": 2
+      },
+      "AB": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or2: Tôi thấy hứng thú khi có thử thách mới để vượt qua.]",
+        "value": 5
+      },
+      "AC": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or3: Tôi so sánh kết quả của mình với bạn để phấn đấu hơn.]",
+        "value": 3
+      },
+      "AD": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or4: Tôi quan tâm cách làm mới, hiệu quả hơn để đạt mục tiêu.]",
+        "value": 4
+      },
+      "AE": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or5: Tôi không thích áp lực thành tích, chỉ muốn làm vừa đủ.]",
+        "value": 3
+      },
+      "AF": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr1: Tôi coi trọng công bằng, tôn trọng khác biệt trong học tập/công việc.]",
+        "value": 5
+      },
+      "AG": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr2: Tôi muốn nghề tương lai giúp ích cho cộng đồng/xã hội.]",
+        "value": 5
+      },
+      "AH": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr3: Tôi thích làm việc nhóm, mọi người cùng tham gia ý kiến.]",
+        "value": 5
+      },
+      "AI": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr4: Tôi thường giữ hòa khí, hạn chế xung đột.]",
+        "value": 5
+      },
+      "AJ": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye1: Tôi thích nghề đòi hỏi giải quyết vấn đề phức tạp.]",
+        "value": 4
+      },
+      "AK": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye2: Tôi coi trọng tự học liên tục, phát triển cả đời.]",
+        "value": 4
+      },
+      "AL": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye3: Tôi thường kết hợp nhiều ý tưởng/góc nhìn để tìm giải pháp.]",
+        "value": 3
+      },
+      "AM": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye4: Tôi linh hoạt đổi cách làm khi điều kiện thay đổi.]",
+        "value": 3
+      },
+      "AN": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye5: Tôi chỉ thích cách làm quen thuộc, không muốn thử mới.]",
+        "value": 3
+      },
+      "AO": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq1: Tôi quan tâm tác động lâu dài của nghề với xã hội/môi trường.]",
+        "value": 5
+      },
+      "AP": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq2: Tôi tin con người – xã hội – thiên nhiên có liên hệ chặt chẽ.]",
+        "value": 5
+      },
+      "AQ": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq3: Tôi muốn chọn nghề có ý nghĩa vượt lên lợi ích cá nhân.]",
+        "value": 5
+      },
+      "AR": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq4: Tôi sẵn sàng hợp tác đa ngành/đa văn hóa vì mục tiêu chung.]",
+        "value": 5
+      },
+      "AS": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq5: Tôi nghĩ các vấn đề toàn cầu (môi trường, bình đẳng) không liên quan đến chọn nghề của mình.]",
+        "value": 5
+      },
+      "AT": {
+        "header": "Bạn quan tâm tới ngành nghề nào? ( Nêu 1 ngành nghề cụ thể thôi để tôi tư vấn chuyên sâu cho bạn nha!)",
+        "value": ""
+      }
+    },
+    {
+      "A": {
+        "header": "Dấu thời gian",
+        "value": "2025-10-24T11:48:49.373Z"
+      },
+      "B": {
+        "header": "Tôi đã đọc những thông tin hướng dẫn trên và đồng ý tham gia thực hiện khảo sát này",
+        "value": "Đồng ý"
+      },
+      "C": {
+        "header": "1. Bạn thuộc giới tính nào?",
+        "value": "Nam"
+      },
+      "D": {
+        "header": "2. Bạn là học sinh khối mấy? (năm học 2025 – 2026)",
+        "value": 11
+      },
+      "E": {
+        "header": "3. Bạn là học sinh trường nào?",
+        "value": "THPT Lương Thế Vinh"
+      },
+      "F": {
+        "header": "4. Trường của bạn thuộc mô hình nào?",
+        "value": "Công lập thường"
+      },
+      "G": {
+        "header": "5. Bạn học chương trình nào?",
+        "value": "Hệ Thường"
+      },
+      "H": {
+        "header": "6. Email (Giúp bạn có thể xem kết quả và so sánh với cộng đồng trên Dashboard",
+        "value": "phamnhatthien7a3@gmail.com"
+      },
+      "I": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be1: Khi nghĩ đến nghề, điều tôi quan tâm nhất là có thể tự nuôi sống bản thân.]",
+        "value": 5
+      },
+      "J": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be2: Tôi ưu tiên chọn nghề ít rủi ro, an toàn cho cuộc sống.]",
+        "value": 3
+      },
+      "K": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be3: Tôi thường ngại thay đổi lớn (chuyển ngành, đổi hướng).]",
+        "value": 2
+      },
+      "L": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be4: Tôi muốn có việc làm ổn định ngay sau khi ra trường.]",
+        "value": 3
+      },
+      "M": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be5: Tôi chấp nhận rủi ro, thử điều mới dù thiếu an toàn ban đầu.]",
+        "value": 5
+      },
+      "N": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu1: Tôi coi trọng ý kiến gia đình khi chọn nghề.]",
+        "value": 1
+      },
+      "O": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu2: Tôi muốn nghề gắn với truyền thống hoặc mong muốn của cha mẹ.]",
+        "value": 2
+      },
+      "P": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu3: Tôi thấy yên tâm khi chọn nghề quen thuộc với người thân.]",
+        "value": 2
+      },
+      "Q": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu4: Tôi tôn trọng lời khuyên của thầy cô/cha mẹ trong chọn nghề.]",
+        "value": 3
+      },
+      "R": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re1: Tôi muốn có nghề giúp tôi thể hiện bản thân, được công nhận.]",
+        "value": 5
+      },
+      "S": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re2: Tôi thích môi trường cạnh tranh, có người thắng – thua rõ ràng.]",
+        "value": 4
+      },
+      "T": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re3: Tôi hứng thú với những nghề cho phép quyết đoán, hành động nhanh.]",
+        "value": 5
+      },
+      "U": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re4: Tôi sẵn sàng mạo hiểm để đạt thành công nổi bật.]",
+        "value": 5
+      },
+      "V": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl1: Tôi muốn công việc có nội quy, quy định rõ ràng.]",
+        "value": 4
+      },
+      "W": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl2: Tôi thích nghề có lộ trình ổn định, lâu dài.]",
+        "value": 3
+      },
+      "X": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl3: Tôi thường tuân thủ kế hoạch học tập/làm việc đã đặt ra.]",
+        "value": 4
+      },
+      "Y": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl4: Tôi tôn trọng luật lệ, thẩm quyền trong học tập/công việc.]",
+        "value": 3
+      },
+      "Z": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl5: Tôi thấy khó chịu nếu có quá nhiều nội quy cứng nhắc.]",
+        "value": 4
+      },
+      "AA": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or1: Tôi thường đặt mục tiêu đo được bằng điểm/KPI/kết quả cụ thể.]",
+        "value": 2
+      },
+      "AB": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or2: Tôi thấy hứng thú khi có thử thách mới để vượt qua.]",
+        "value": 5
+      },
+      "AC": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or3: Tôi so sánh kết quả của mình với bạn để phấn đấu hơn.]",
+        "value": 5
+      },
+      "AD": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or4: Tôi quan tâm cách làm mới, hiệu quả hơn để đạt mục tiêu.]",
+        "value": 5
+      },
+      "AE": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or5: Tôi không thích áp lực thành tích, chỉ muốn làm vừa đủ.]",
+        "value": 1
+      },
+      "AF": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr1: Tôi coi trọng công bằng, tôn trọng khác biệt trong học tập/công việc.]",
+        "value": 5
+      },
+      "AG": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr2: Tôi muốn nghề tương lai giúp ích cho cộng đồng/xã hội.]",
+        "value": 5
+      },
+      "AH": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr3: Tôi thích làm việc nhóm, mọi người cùng tham gia ý kiến.]",
+        "value": 1
+      },
+      "AI": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr4: Tôi thường giữ hòa khí, hạn chế xung đột.]",
+        "value": 5
+      },
+      "AJ": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye1: Tôi thích nghề đòi hỏi giải quyết vấn đề phức tạp.]",
+        "value": 5
+      },
+      "AK": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye2: Tôi coi trọng tự học liên tục, phát triển cả đời.]",
+        "value": 5
+      },
+      "AL": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye3: Tôi thường kết hợp nhiều ý tưởng/góc nhìn để tìm giải pháp.]",
+        "value": 5
+      },
+      "AM": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye4: Tôi linh hoạt đổi cách làm khi điều kiện thay đổi.]",
+        "value": 5
+      },
+      "AN": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye5: Tôi chỉ thích cách làm quen thuộc, không muốn thử mới.]",
+        "value": 1
+      },
+      "AO": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq1: Tôi quan tâm tác động lâu dài của nghề với xã hội/môi trường.]",
+        "value": 4
+      },
+      "AP": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq2: Tôi tin con người – xã hội – thiên nhiên có liên hệ chặt chẽ.]",
+        "value": 5
+      },
+      "AQ": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq3: Tôi muốn chọn nghề có ý nghĩa vượt lên lợi ích cá nhân.]",
+        "value": 3
+      },
+      "AR": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq4: Tôi sẵn sàng hợp tác đa ngành/đa văn hóa vì mục tiêu chung.]",
+        "value": 5
+      },
+      "AS": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq5: Tôi nghĩ các vấn đề toàn cầu (môi trường, bình đẳng) không liên quan đến chọn nghề của mình.]",
+        "value": 2
+      },
+      "AT": {
+        "header": "Bạn quan tâm tới ngành nghề nào? ( Nêu 1 ngành nghề cụ thể thôi để tôi tư vấn chuyên sâu cho bạn nha!)",
+        "value": ""
+      }
+    },
+    {
+      "A": {
+        "header": "Dấu thời gian",
+        "value": "2025-10-24T13:52:58.599Z"
+      },
+      "B": {
+        "header": "Tôi đã đọc những thông tin hướng dẫn trên và đồng ý tham gia thực hiện khảo sát này",
+        "value": "Đồng ý"
+      },
+      "C": {
+        "header": "1. Bạn thuộc giới tính nào?",
+        "value": "Nữ"
+      },
+      "D": {
+        "header": "2. Bạn là học sinh khối mấy? (năm học 2025 – 2026)",
+        "value": 12
+      },
+      "E": {
+        "header": "3. Bạn là học sinh trường nào?",
+        "value": "THPT LTV"
+      },
+      "F": {
+        "header": "4. Trường của bạn thuộc mô hình nào?",
+        "value": "Công lập thường"
+      },
+      "G": {
+        "header": "5. Bạn học chương trình nào?",
+        "value": "Hệ Thường"
+      },
+      "H": {
+        "header": "6. Email (Giúp bạn có thể xem kết quả và so sánh với cộng đồng trên Dashboard",
+        "value": "ngaq4252@gmail.com"
+      },
+      "I": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be1: Khi nghĩ đến nghề, điều tôi quan tâm nhất là có thể tự nuôi sống bản thân.]",
+        "value": 5
+      },
+      "J": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be2: Tôi ưu tiên chọn nghề ít rủi ro, an toàn cho cuộc sống.]",
+        "value": 3
+      },
+      "K": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be3: Tôi thường ngại thay đổi lớn (chuyển ngành, đổi hướng).]",
+        "value": 3
+      },
+      "L": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be4: Tôi muốn có việc làm ổn định ngay sau khi ra trường.]",
+        "value": 4
+      },
+      "M": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be5: Tôi chấp nhận rủi ro, thử điều mới dù thiếu an toàn ban đầu.]",
+        "value": 3
+      },
+      "N": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu1: Tôi coi trọng ý kiến gia đình khi chọn nghề.]",
+        "value": 4
+      },
+      "O": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu2: Tôi muốn nghề gắn với truyền thống hoặc mong muốn của cha mẹ.]",
+        "value": 4
+      },
+      "P": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu3: Tôi thấy yên tâm khi chọn nghề quen thuộc với người thân.]",
+        "value": 3
+      },
+      "Q": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu4: Tôi tôn trọng lời khuyên của thầy cô/cha mẹ trong chọn nghề.]",
+        "value": 4
+      },
+      "R": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re1: Tôi muốn có nghề giúp tôi thể hiện bản thân, được công nhận.]",
+        "value": 3
+      },
+      "S": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re2: Tôi thích môi trường cạnh tranh, có người thắng – thua rõ ràng.]",
+        "value": 3
+      },
+      "T": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re3: Tôi hứng thú với những nghề cho phép quyết đoán, hành động nhanh.]",
+        "value": 3
+      },
+      "U": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re4: Tôi sẵn sàng mạo hiểm để đạt thành công nổi bật.]",
+        "value": 3
+      },
+      "V": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl1: Tôi muốn công việc có nội quy, quy định rõ ràng.]",
+        "value": 3
+      },
+      "W": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl2: Tôi thích nghề có lộ trình ổn định, lâu dài.]",
+        "value": 4
+      },
+      "X": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl3: Tôi thường tuân thủ kế hoạch học tập/làm việc đã đặt ra.]",
+        "value": 4
+      },
+      "Y": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl4: Tôi tôn trọng luật lệ, thẩm quyền trong học tập/công việc.]",
+        "value": 3
+      },
+      "Z": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl5: Tôi thấy khó chịu nếu có quá nhiều nội quy cứng nhắc.]",
+        "value": 4
+      },
+      "AA": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or1: Tôi thường đặt mục tiêu đo được bằng điểm/KPI/kết quả cụ thể.]",
+        "value": 4
+      },
+      "AB": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or2: Tôi thấy hứng thú khi có thử thách mới để vượt qua.]",
+        "value": 4
+      },
+      "AC": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or3: Tôi so sánh kết quả của mình với bạn để phấn đấu hơn.]",
+        "value": 4
+      },
+      "AD": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or4: Tôi quan tâm cách làm mới, hiệu quả hơn để đạt mục tiêu.]",
+        "value": 4
+      },
+      "AE": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or5: Tôi không thích áp lực thành tích, chỉ muốn làm vừa đủ.]",
+        "value": 5
+      },
+      "AF": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr1: Tôi coi trọng công bằng, tôn trọng khác biệt trong học tập/công việc.]",
+        "value": 4
+      },
+      "AG": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr2: Tôi muốn nghề tương lai giúp ích cho cộng đồng/xã hội.]",
+        "value": 4
+      },
+      "AH": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr3: Tôi thích làm việc nhóm, mọi người cùng tham gia ý kiến.]",
+        "value": 3
+      },
+      "AI": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr4: Tôi thường giữ hòa khí, hạn chế xung đột.]",
+        "value": 4
+      },
+      "AJ": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye1: Tôi thích nghề đòi hỏi giải quyết vấn đề phức tạp.]",
+        "value": 2
+      },
+      "AK": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye2: Tôi coi trọng tự học liên tục, phát triển cả đời.]",
+        "value": 5
+      },
+      "AL": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye3: Tôi thường kết hợp nhiều ý tưởng/góc nhìn để tìm giải pháp.]",
+        "value": 4
+      },
+      "AM": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye4: Tôi linh hoạt đổi cách làm khi điều kiện thay đổi.]",
+        "value": 4
+      },
+      "AN": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye5: Tôi chỉ thích cách làm quen thuộc, không muốn thử mới.]",
+        "value": 2
+      },
+      "AO": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq1: Tôi quan tâm tác động lâu dài của nghề với xã hội/môi trường.]",
+        "value": 4
+      },
+      "AP": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq2: Tôi tin con người – xã hội – thiên nhiên có liên hệ chặt chẽ.]",
+        "value": 4
+      },
+      "AQ": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq3: Tôi muốn chọn nghề có ý nghĩa vượt lên lợi ích cá nhân.]",
+        "value": 4
+      },
+      "AR": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq4: Tôi sẵn sàng hợp tác đa ngành/đa văn hóa vì mục tiêu chung.]",
+        "value": 4
+      },
+      "AS": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq5: Tôi nghĩ các vấn đề toàn cầu (môi trường, bình đẳng) không liên quan đến chọn nghề của mình.]",
+        "value": 4
+      },
+      "AT": {
+        "header": "Bạn quan tâm tới ngành nghề nào? ( Nêu 1 ngành nghề cụ thể thôi để tôi tư vấn chuyên sâu cho bạn nha!)",
+        "value": ""
+      }
+    },
+    {
+      "A": {
+        "header": "Dấu thời gian",
+        "value": "2025-10-24T14:13:34.108Z"
+      },
+      "B": {
+        "header": "Tôi đã đọc những thông tin hướng dẫn trên và đồng ý tham gia thực hiện khảo sát này",
+        "value": "Đồng ý"
+      },
+      "C": {
+        "header": "1. Bạn thuộc giới tính nào?",
+        "value": "Nữ"
+      },
+      "D": {
+        "header": "2. Bạn là học sinh khối mấy? (năm học 2025 – 2026)",
+        "value": 12
+      },
+      "E": {
+        "header": "3. Bạn là học sinh trường nào?",
+        "value": "thpt nguyễn hữu thọ"
+      },
+      "F": {
+        "header": "4. Trường của bạn thuộc mô hình nào?",
+        "value": "Công lập thường"
+      },
+      "G": {
+        "header": "5. Bạn học chương trình nào?",
+        "value": "Hệ Thường"
+      },
+      "H": {
+        "header": "6. Email (Giúp bạn có thể xem kết quả và so sánh với cộng đồng trên Dashboard",
+        "value": "tkhanhhuyen1912@gmail.com"
+      },
+      "I": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be1: Khi nghĩ đến nghề, điều tôi quan tâm nhất là có thể tự nuôi sống bản thân.]",
+        "value": 2
+      },
+      "J": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be2: Tôi ưu tiên chọn nghề ít rủi ro, an toàn cho cuộc sống.]",
+        "value": 4
+      },
+      "K": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be3: Tôi thường ngại thay đổi lớn (chuyển ngành, đổi hướng).]",
+        "value": 5
+      },
+      "L": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be4: Tôi muốn có việc làm ổn định ngay sau khi ra trường.]",
+        "value": 5
+      },
+      "M": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be5: Tôi chấp nhận rủi ro, thử điều mới dù thiếu an toàn ban đầu.]",
+        "value": 2
+      },
+      "N": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu1: Tôi coi trọng ý kiến gia đình khi chọn nghề.]",
+        "value": 4
+      },
+      "O": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu2: Tôi muốn nghề gắn với truyền thống hoặc mong muốn của cha mẹ.]",
+        "value": 2
+      },
+      "P": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu3: Tôi thấy yên tâm khi chọn nghề quen thuộc với người thân.]",
+        "value": 3
+      },
+      "Q": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu4: Tôi tôn trọng lời khuyên của thầy cô/cha mẹ trong chọn nghề.]",
+        "value": 4
+      },
+      "R": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re1: Tôi muốn có nghề giúp tôi thể hiện bản thân, được công nhận.]",
+        "value": 5
+      },
+      "S": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re2: Tôi thích môi trường cạnh tranh, có người thắng – thua rõ ràng.]",
+        "value": 5
+      },
+      "T": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re3: Tôi hứng thú với những nghề cho phép quyết đoán, hành động nhanh.]",
+        "value": 3
+      },
+      "U": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re4: Tôi sẵn sàng mạo hiểm để đạt thành công nổi bật.]",
+        "value": 3
+      },
+      "V": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl1: Tôi muốn công việc có nội quy, quy định rõ ràng.]",
+        "value": 4
+      },
+      "W": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl2: Tôi thích nghề có lộ trình ổn định, lâu dài.]",
+        "value": 5
+      },
+      "X": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl3: Tôi thường tuân thủ kế hoạch học tập/làm việc đã đặt ra.]",
+        "value": 5
+      },
+      "Y": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl4: Tôi tôn trọng luật lệ, thẩm quyền trong học tập/công việc.]",
+        "value": 5
+      },
+      "Z": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl5: Tôi thấy khó chịu nếu có quá nhiều nội quy cứng nhắc.]",
+        "value": 4
+      },
+      "AA": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or1: Tôi thường đặt mục tiêu đo được bằng điểm/KPI/kết quả cụ thể.]",
+        "value": 5
+      },
+      "AB": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or2: Tôi thấy hứng thú khi có thử thách mới để vượt qua.]",
+        "value": 5
+      },
+      "AC": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or3: Tôi so sánh kết quả của mình với bạn để phấn đấu hơn.]",
+        "value": 5
+      },
+      "AD": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or4: Tôi quan tâm cách làm mới, hiệu quả hơn để đạt mục tiêu.]",
+        "value": 4
+      },
+      "AE": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or5: Tôi không thích áp lực thành tích, chỉ muốn làm vừa đủ.]",
+        "value": 2
+      },
+      "AF": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr1: Tôi coi trọng công bằng, tôn trọng khác biệt trong học tập/công việc.]",
+        "value": 4
+      },
+      "AG": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr2: Tôi muốn nghề tương lai giúp ích cho cộng đồng/xã hội.]",
+        "value": 5
+      },
+      "AH": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr3: Tôi thích làm việc nhóm, mọi người cùng tham gia ý kiến.]",
+        "value": 4
+      },
+      "AI": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr4: Tôi thường giữ hòa khí, hạn chế xung đột.]",
+        "value": 5
+      },
+      "AJ": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye1: Tôi thích nghề đòi hỏi giải quyết vấn đề phức tạp.]",
+        "value": 3
+      },
+      "AK": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye2: Tôi coi trọng tự học liên tục, phát triển cả đời.]",
+        "value": 5
+      },
+      "AL": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye3: Tôi thường kết hợp nhiều ý tưởng/góc nhìn để tìm giải pháp.]",
+        "value": 5
+      },
+      "AM": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye4: Tôi linh hoạt đổi cách làm khi điều kiện thay đổi.]",
+        "value": 3
+      },
+      "AN": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye5: Tôi chỉ thích cách làm quen thuộc, không muốn thử mới.]",
+        "value": 3
+      },
+      "AO": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq1: Tôi quan tâm tác động lâu dài của nghề với xã hội/môi trường.]",
+        "value": 4
+      },
+      "AP": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq2: Tôi tin con người – xã hội – thiên nhiên có liên hệ chặt chẽ.]",
+        "value": 5
+      },
+      "AQ": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq3: Tôi muốn chọn nghề có ý nghĩa vượt lên lợi ích cá nhân.]",
+        "value": 5
+      },
+      "AR": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq4: Tôi sẵn sàng hợp tác đa ngành/đa văn hóa vì mục tiêu chung.]",
+        "value": 5
+      },
+      "AS": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq5: Tôi nghĩ các vấn đề toàn cầu (môi trường, bình đẳng) không liên quan đến chọn nghề của mình.]",
+        "value": 1
+      },
+      "AT": {
+        "header": "Bạn quan tâm tới ngành nghề nào? ( Nêu 1 ngành nghề cụ thể thôi để tôi tư vấn chuyên sâu cho bạn nha!)",
+        "value": ""
+      }
+    },
+    {
+      "A": {
+        "header": "Dấu thời gian",
+        "value": "2025-10-25T01:47:15.783Z"
+      },
+      "B": {
+        "header": "Tôi đã đọc những thông tin hướng dẫn trên và đồng ý tham gia thực hiện khảo sát này",
+        "value": "Đồng ý"
+      },
+      "C": {
+        "header": "1. Bạn thuộc giới tính nào?",
+        "value": "Nam"
+      },
+      "D": {
+        "header": "2. Bạn là học sinh khối mấy? (năm học 2025 – 2026)",
+        "value": 12
+      },
+      "E": {
+        "header": "3. Bạn là học sinh trường nào?",
+        "value": "THPT Lương Thế Vinh"
+      },
+      "F": {
+        "header": "4. Trường của bạn thuộc mô hình nào?",
+        "value": "Công lập thường"
+      },
+      "G": {
+        "header": "5. Bạn học chương trình nào?",
+        "value": "Hệ Thường"
+      },
+      "H": {
+        "header": "6. Email (Giúp bạn có thể xem kết quả và so sánh với cộng đồng trên Dashboard",
+        "value": "Kevincao39@gmail.com"
+      },
+      "I": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be1: Khi nghĩ đến nghề, điều tôi quan tâm nhất là có thể tự nuôi sống bản thân.]",
+        "value": 5
+      },
+      "J": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be2: Tôi ưu tiên chọn nghề ít rủi ro, an toàn cho cuộc sống.]",
+        "value": 2
+      },
+      "K": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be3: Tôi thường ngại thay đổi lớn (chuyển ngành, đổi hướng).]",
+        "value": 3
+      },
+      "L": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be4: Tôi muốn có việc làm ổn định ngay sau khi ra trường.]",
+        "value": 5
+      },
+      "M": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be5: Tôi chấp nhận rủi ro, thử điều mới dù thiếu an toàn ban đầu.]",
+        "value": 5
+      },
+      "N": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu1: Tôi coi trọng ý kiến gia đình khi chọn nghề.]",
+        "value": 2
+      },
+      "O": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu2: Tôi muốn nghề gắn với truyền thống hoặc mong muốn của cha mẹ.]",
+        "value": 2
+      },
+      "P": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu3: Tôi thấy yên tâm khi chọn nghề quen thuộc với người thân.]",
+        "value": 2
+      },
+      "Q": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu4: Tôi tôn trọng lời khuyên của thầy cô/cha mẹ trong chọn nghề.]",
+        "value": 2
+      },
+      "R": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re1: Tôi muốn có nghề giúp tôi thể hiện bản thân, được công nhận.]",
+        "value": 5
+      },
+      "S": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re2: Tôi thích môi trường cạnh tranh, có người thắng – thua rõ ràng.]",
+        "value": 5
+      },
+      "T": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re3: Tôi hứng thú với những nghề cho phép quyết đoán, hành động nhanh.]",
+        "value": 4
+      },
+      "U": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re4: Tôi sẵn sàng mạo hiểm để đạt thành công nổi bật.]",
+        "value": 5
+      },
+      "V": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl1: Tôi muốn công việc có nội quy, quy định rõ ràng.]",
+        "value": 5
+      },
+      "W": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl2: Tôi thích nghề có lộ trình ổn định, lâu dài.]",
+        "value": 4
+      },
+      "X": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl3: Tôi thường tuân thủ kế hoạch học tập/làm việc đã đặt ra.]",
+        "value": 5
+      },
+      "Y": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl4: Tôi tôn trọng luật lệ, thẩm quyền trong học tập/công việc.]",
+        "value": 5
+      },
+      "Z": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl5: Tôi thấy khó chịu nếu có quá nhiều nội quy cứng nhắc.]",
+        "value": 3
+      },
+      "AA": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or1: Tôi thường đặt mục tiêu đo được bằng điểm/KPI/kết quả cụ thể.]",
+        "value": 5
+      },
+      "AB": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or2: Tôi thấy hứng thú khi có thử thách mới để vượt qua.]",
+        "value": 4
+      },
+      "AC": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or3: Tôi so sánh kết quả của mình với bạn để phấn đấu hơn.]",
+        "value": 5
+      },
+      "AD": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or4: Tôi quan tâm cách làm mới, hiệu quả hơn để đạt mục tiêu.]",
+        "value": 5
+      },
+      "AE": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or5: Tôi không thích áp lực thành tích, chỉ muốn làm vừa đủ.]",
+        "value": 2
+      },
+      "AF": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr1: Tôi coi trọng công bằng, tôn trọng khác biệt trong học tập/công việc.]",
+        "value": 3
+      },
+      "AG": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr2: Tôi muốn nghề tương lai giúp ích cho cộng đồng/xã hội.]",
+        "value": 2
+      },
+      "AH": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr3: Tôi thích làm việc nhóm, mọi người cùng tham gia ý kiến.]",
+        "value": 1
+      },
+      "AI": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr4: Tôi thường giữ hòa khí, hạn chế xung đột.]",
+        "value": 4
+      },
+      "AJ": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye1: Tôi thích nghề đòi hỏi giải quyết vấn đề phức tạp.]",
+        "value": 5
+      },
+      "AK": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye2: Tôi coi trọng tự học liên tục, phát triển cả đời.]",
+        "value": 5
+      },
+      "AL": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye3: Tôi thường kết hợp nhiều ý tưởng/góc nhìn để tìm giải pháp.]",
+        "value": 5
+      },
+      "AM": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye4: Tôi linh hoạt đổi cách làm khi điều kiện thay đổi.]",
+        "value": 4
+      },
+      "AN": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye5: Tôi chỉ thích cách làm quen thuộc, không muốn thử mới.]",
+        "value": 3
+      },
+      "AO": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq1: Tôi quan tâm tác động lâu dài của nghề với xã hội/môi trường.]",
+        "value": 2
+      },
+      "AP": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq2: Tôi tin con người – xã hội – thiên nhiên có liên hệ chặt chẽ.]",
+        "value": 4
+      },
+      "AQ": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq3: Tôi muốn chọn nghề có ý nghĩa vượt lên lợi ích cá nhân.]",
+        "value": 1
+      },
+      "AR": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq4: Tôi sẵn sàng hợp tác đa ngành/đa văn hóa vì mục tiêu chung.]",
+        "value": 1
+      },
+      "AS": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq5: Tôi nghĩ các vấn đề toàn cầu (môi trường, bình đẳng) không liên quan đến chọn nghề của mình.]",
+        "value": 4
+      },
+      "AT": {
+        "header": "Bạn quan tâm tới ngành nghề nào? ( Nêu 1 ngành nghề cụ thể thôi để tôi tư vấn chuyên sâu cho bạn nha!)",
+        "value": ""
+      }
+    },
+    {
+      "A": {
+        "header": "Dấu thời gian",
+        "value": "2025-10-25T17:11:41.150Z"
+      },
+      "B": {
+        "header": "Tôi đã đọc những thông tin hướng dẫn trên và đồng ý tham gia thực hiện khảo sát này",
+        "value": "Đồng ý"
+      },
+      "C": {
+        "header": "1. Bạn thuộc giới tính nào?",
+        "value": "Nam"
+      },
+      "D": {
+        "header": "2. Bạn là học sinh khối mấy? (năm học 2025 – 2026)",
+        "value": 10
+      },
+      "E": {
+        "header": "3. Bạn là học sinh trường nào?",
+        "value": "Thpt Lương Thế Vinh "
+      },
+      "F": {
+        "header": "4. Trường của bạn thuộc mô hình nào?",
+        "value": "Công lập thường"
+      },
+      "G": {
+        "header": "5. Bạn học chương trình nào?",
+        "value": "Hệ Thường"
+      },
+      "H": {
+        "header": "6. Email (Giúp bạn có thể xem kết quả và so sánh với cộng đồng trên Dashboard",
+        "value": "huybel752011@gmail.com"
+      },
+      "I": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be1: Khi nghĩ đến nghề, điều tôi quan tâm nhất là có thể tự nuôi sống bản thân.]",
+        "value": 1
+      },
+      "J": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be2: Tôi ưu tiên chọn nghề ít rủi ro, an toàn cho cuộc sống.]",
+        "value": 2
+      },
+      "K": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be3: Tôi thường ngại thay đổi lớn (chuyển ngành, đổi hướng).]",
+        "value": 3
+      },
+      "L": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be4: Tôi muốn có việc làm ổn định ngay sau khi ra trường.]",
+        "value": 4
+      },
+      "M": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be5: Tôi chấp nhận rủi ro, thử điều mới dù thiếu an toàn ban đầu.]",
+        "value": 3
+      },
+      "N": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu1: Tôi coi trọng ý kiến gia đình khi chọn nghề.]",
+        "value": 4
+      },
+      "O": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu2: Tôi muốn nghề gắn với truyền thống hoặc mong muốn của cha mẹ.]",
+        "value": 2
+      },
+      "P": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu3: Tôi thấy yên tâm khi chọn nghề quen thuộc với người thân.]",
+        "value": 3
+      },
+      "Q": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu4: Tôi tôn trọng lời khuyên của thầy cô/cha mẹ trong chọn nghề.]",
+        "value": 2
+      },
+      "R": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re1: Tôi muốn có nghề giúp tôi thể hiện bản thân, được công nhận.]",
+        "value": 1
+      },
+      "S": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re2: Tôi thích môi trường cạnh tranh, có người thắng – thua rõ ràng.]",
+        "value": 2
+      },
+      "T": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re3: Tôi hứng thú với những nghề cho phép quyết đoán, hành động nhanh.]",
+        "value": 3
+      },
+      "U": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re4: Tôi sẵn sàng mạo hiểm để đạt thành công nổi bật.]",
+        "value": 2
+      },
+      "V": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl1: Tôi muốn công việc có nội quy, quy định rõ ràng.]",
+        "value": 2
+      },
+      "W": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl2: Tôi thích nghề có lộ trình ổn định, lâu dài.]",
+        "value": 4
+      },
+      "X": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl3: Tôi thường tuân thủ kế hoạch học tập/làm việc đã đặt ra.]",
+        "value": 2
+      },
+      "Y": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl4: Tôi tôn trọng luật lệ, thẩm quyền trong học tập/công việc.]",
+        "value": 3
+      },
+      "Z": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl5: Tôi thấy khó chịu nếu có quá nhiều nội quy cứng nhắc.]",
+        "value": 2
+      },
+      "AA": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or1: Tôi thường đặt mục tiêu đo được bằng điểm/KPI/kết quả cụ thể.]",
+        "value": 1
+      },
+      "AB": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or2: Tôi thấy hứng thú khi có thử thách mới để vượt qua.]",
+        "value": 2
+      },
+      "AC": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or3: Tôi so sánh kết quả của mình với bạn để phấn đấu hơn.]",
+        "value": 2
+      },
+      "AD": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or4: Tôi quan tâm cách làm mới, hiệu quả hơn để đạt mục tiêu.]",
+        "value": 1
+      },
+      "AE": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or5: Tôi không thích áp lực thành tích, chỉ muốn làm vừa đủ.]",
+        "value": 3
+      },
+      "AF": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr1: Tôi coi trọng công bằng, tôn trọng khác biệt trong học tập/công việc.]",
+        "value": 2
+      },
+      "AG": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr2: Tôi muốn nghề tương lai giúp ích cho cộng đồng/xã hội.]",
+        "value": 3
+      },
+      "AH": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr3: Tôi thích làm việc nhóm, mọi người cùng tham gia ý kiến.]",
+        "value": 2
+      },
+      "AI": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr4: Tôi thường giữ hòa khí, hạn chế xung đột.]",
+        "value": 3
+      },
+      "AJ": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye1: Tôi thích nghề đòi hỏi giải quyết vấn đề phức tạp.]",
+        "value": 2
+      },
+      "AK": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye2: Tôi coi trọng tự học liên tục, phát triển cả đời.]",
+        "value": 3
+      },
+      "AL": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye3: Tôi thường kết hợp nhiều ý tưởng/góc nhìn để tìm giải pháp.]",
+        "value": 1
+      },
+      "AM": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye4: Tôi linh hoạt đổi cách làm khi điều kiện thay đổi.]",
+        "value": 3
+      },
+      "AN": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye5: Tôi chỉ thích cách làm quen thuộc, không muốn thử mới.]",
+        "value": 2
+      },
+      "AO": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq1: Tôi quan tâm tác động lâu dài của nghề với xã hội/môi trường.]",
+        "value": 3
+      },
+      "AP": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq2: Tôi tin con người – xã hội – thiên nhiên có liên hệ chặt chẽ.]",
+        "value": 2
+      },
+      "AQ": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq3: Tôi muốn chọn nghề có ý nghĩa vượt lên lợi ích cá nhân.]",
+        "value": 4
+      },
+      "AR": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq4: Tôi sẵn sàng hợp tác đa ngành/đa văn hóa vì mục tiêu chung.]",
+        "value": 3
+      },
+      "AS": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq5: Tôi nghĩ các vấn đề toàn cầu (môi trường, bình đẳng) không liên quan đến chọn nghề của mình.]",
+        "value": 2
+      },
+      "AT": {
+        "header": "Bạn quan tâm tới ngành nghề nào? ( Nêu 1 ngành nghề cụ thể thôi để tôi tư vấn chuyên sâu cho bạn nha!)",
+        "value": ""
+      }
+    },
+    {
+      "A": {
+        "header": "Dấu thời gian",
+        "value": "2025-10-26T02:57:05.452Z"
+      },
+      "B": {
+        "header": "Tôi đã đọc những thông tin hướng dẫn trên và đồng ý tham gia thực hiện khảo sát này",
+        "value": "Đồng ý"
+      },
+      "C": {
+        "header": "1. Bạn thuộc giới tính nào?",
+        "value": "Nam"
+      },
+      "D": {
+        "header": "2. Bạn là học sinh khối mấy? (năm học 2025 – 2026)",
+        "value": 10
+      },
+      "E": {
+        "header": "3. Bạn là học sinh trường nào?",
+        "value": "THPT Lương Thế Vinh"
+      },
+      "F": {
+        "header": "4. Trường của bạn thuộc mô hình nào?",
+        "value": "Công lập thường"
+      },
+      "G": {
+        "header": "5. Bạn học chương trình nào?",
+        "value": "Hệ Thường"
+      },
+      "H": {
+        "header": "6. Email (Giúp bạn có thể xem kết quả và so sánh với cộng đồng trên Dashboard",
+        "value": "huybel752011@gmail.com"
+      },
+      "I": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be1: Khi nghĩ đến nghề, điều tôi quan tâm nhất là có thể tự nuôi sống bản thân.]",
+        "value": 1
+      },
+      "J": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be2: Tôi ưu tiên chọn nghề ít rủi ro, an toàn cho cuộc sống.]",
+        "value": 3
+      },
+      "K": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be3: Tôi thường ngại thay đổi lớn (chuyển ngành, đổi hướng).]",
+        "value": 3
+      },
+      "L": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be4: Tôi muốn có việc làm ổn định ngay sau khi ra trường.]",
+        "value": 2
+      },
+      "M": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be5: Tôi chấp nhận rủi ro, thử điều mới dù thiếu an toàn ban đầu.]",
+        "value": 4
+      },
+      "N": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu1: Tôi coi trọng ý kiến gia đình khi chọn nghề.]",
+        "value": 5
+      },
+      "O": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu2: Tôi muốn nghề gắn với truyền thống hoặc mong muốn của cha mẹ.]",
+        "value": 3
+      },
+      "P": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu3: Tôi thấy yên tâm khi chọn nghề quen thuộc với người thân.]",
+        "value": 2
+      },
+      "Q": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu4: Tôi tôn trọng lời khuyên của thầy cô/cha mẹ trong chọn nghề.]",
+        "value": 4
+      },
+      "R": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re1: Tôi muốn có nghề giúp tôi thể hiện bản thân, được công nhận.]",
+        "value": 4
+      },
+      "S": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re2: Tôi thích môi trường cạnh tranh, có người thắng – thua rõ ràng.]",
+        "value": 3
+      },
+      "T": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re3: Tôi hứng thú với những nghề cho phép quyết đoán, hành động nhanh.]",
+        "value": 5
+      },
+      "U": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re4: Tôi sẵn sàng mạo hiểm để đạt thành công nổi bật.]",
+        "value": 3
+      },
+      "V": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl1: Tôi muốn công việc có nội quy, quy định rõ ràng.]",
+        "value": 2
+      },
+      "W": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl2: Tôi thích nghề có lộ trình ổn định, lâu dài.]",
+        "value": 4
+      },
+      "X": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl3: Tôi thường tuân thủ kế hoạch học tập/làm việc đã đặt ra.]",
+        "value": 2
+      },
+      "Y": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl4: Tôi tôn trọng luật lệ, thẩm quyền trong học tập/công việc.]",
+        "value": 3
+      },
+      "Z": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl5: Tôi thấy khó chịu nếu có quá nhiều nội quy cứng nhắc.]",
+        "value": 3
+      },
+      "AA": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or1: Tôi thường đặt mục tiêu đo được bằng điểm/KPI/kết quả cụ thể.]",
+        "value": 2
+      },
+      "AB": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or2: Tôi thấy hứng thú khi có thử thách mới để vượt qua.]",
+        "value": 4
+      },
+      "AC": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or3: Tôi so sánh kết quả của mình với bạn để phấn đấu hơn.]",
+        "value": 2
+      },
+      "AD": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or4: Tôi quan tâm cách làm mới, hiệu quả hơn để đạt mục tiêu.]",
+        "value": 2
+      },
+      "AE": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or5: Tôi không thích áp lực thành tích, chỉ muốn làm vừa đủ.]",
+        "value": 4
+      },
+      "AF": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr1: Tôi coi trọng công bằng, tôn trọng khác biệt trong học tập/công việc.]",
+        "value": 2
+      },
+      "AG": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr2: Tôi muốn nghề tương lai giúp ích cho cộng đồng/xã hội.]",
+        "value": 3
+      },
+      "AH": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr3: Tôi thích làm việc nhóm, mọi người cùng tham gia ý kiến.]",
+        "value": 4
+      },
+      "AI": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr4: Tôi thường giữ hòa khí, hạn chế xung đột.]",
+        "value": 3
+      },
+      "AJ": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye1: Tôi thích nghề đòi hỏi giải quyết vấn đề phức tạp.]",
+        "value": 2
+      },
+      "AK": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye2: Tôi coi trọng tự học liên tục, phát triển cả đời.]",
+        "value": 5
+      },
+      "AL": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye3: Tôi thường kết hợp nhiều ý tưởng/góc nhìn để tìm giải pháp.]",
+        "value": 5
+      },
+      "AM": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye4: Tôi linh hoạt đổi cách làm khi điều kiện thay đổi.]",
+        "value": 3
+      },
+      "AN": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye5: Tôi chỉ thích cách làm quen thuộc, không muốn thử mới.]",
+        "value": 2
+      },
+      "AO": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq1: Tôi quan tâm tác động lâu dài của nghề với xã hội/môi trường.]",
+        "value": 2
+      },
+      "AP": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq2: Tôi tin con người – xã hội – thiên nhiên có liên hệ chặt chẽ.]",
+        "value": 3
+      },
+      "AQ": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq3: Tôi muốn chọn nghề có ý nghĩa vượt lên lợi ích cá nhân.]",
+        "value": 4
+      },
+      "AR": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq4: Tôi sẵn sàng hợp tác đa ngành/đa văn hóa vì mục tiêu chung.]",
+        "value": 2
+      },
+      "AS": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq5: Tôi nghĩ các vấn đề toàn cầu (môi trường, bình đẳng) không liên quan đến chọn nghề của mình.]",
+        "value": 4
+      },
+      "AT": {
+        "header": "Bạn quan tâm tới ngành nghề nào? ( Nêu 1 ngành nghề cụ thể thôi để tôi tư vấn chuyên sâu cho bạn nha!)",
+        "value": ""
+      }
+    },
+    {
+      "A": {
+        "header": "Dấu thời gian",
+        "value": "2025-10-28T16:42:34.566Z"
+      },
+      "B": {
+        "header": "Tôi đã đọc những thông tin hướng dẫn trên và đồng ý tham gia thực hiện khảo sát này",
+        "value": "Đồng ý"
+      },
+      "C": {
+        "header": "1. Bạn thuộc giới tính nào?",
+        "value": "Nữ"
+      },
+      "D": {
+        "header": "2. Bạn là học sinh khối mấy? (năm học 2025 – 2026)",
+        "value": 12
+      },
+      "E": {
+        "header": "3. Bạn là học sinh trường nào?",
+        "value": "THPT Lương Thế Vinh"
+      },
+      "F": {
+        "header": "4. Trường của bạn thuộc mô hình nào?",
+        "value": "Công lập thường"
+      },
+      "G": {
+        "header": "5. Bạn học chương trình nào?",
+        "value": "Hệ Thường"
+      },
+      "H": {
+        "header": "6. Email (Giúp bạn có thể xem kết quả và so sánh với cộng đồng trên Dashboard",
+        "value": "eirlysnguyen9032@gmail.com"
+      },
+      "I": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be1: Khi nghĩ đến nghề, điều tôi quan tâm nhất là có thể tự nuôi sống bản thân.]",
+        "value": 4
+      },
+      "J": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be2: Tôi ưu tiên chọn nghề ít rủi ro, an toàn cho cuộc sống.]",
+        "value": 4
+      },
+      "K": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be3: Tôi thường ngại thay đổi lớn (chuyển ngành, đổi hướng).]",
+        "value": 4
+      },
+      "L": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be4: Tôi muốn có việc làm ổn định ngay sau khi ra trường.]",
+        "value": 4
+      },
+      "M": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be5: Tôi chấp nhận rủi ro, thử điều mới dù thiếu an toàn ban đầu.]",
+        "value": 4
+      },
+      "N": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu1: Tôi coi trọng ý kiến gia đình khi chọn nghề.]",
+        "value": 4
+      },
+      "O": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu2: Tôi muốn nghề gắn với truyền thống hoặc mong muốn của cha mẹ.]",
+        "value": 2
+      },
+      "P": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu3: Tôi thấy yên tâm khi chọn nghề quen thuộc với người thân.]",
+        "value": 2
+      },
+      "Q": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu4: Tôi tôn trọng lời khuyên của thầy cô/cha mẹ trong chọn nghề.]",
+        "value": 3
+      },
+      "R": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re1: Tôi muốn có nghề giúp tôi thể hiện bản thân, được công nhận.]",
+        "value": 5
+      },
+      "S": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re2: Tôi thích môi trường cạnh tranh, có người thắng – thua rõ ràng.]",
+        "value": 4
+      },
+      "T": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re3: Tôi hứng thú với những nghề cho phép quyết đoán, hành động nhanh.]",
+        "value": 3
+      },
+      "U": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re4: Tôi sẵn sàng mạo hiểm để đạt thành công nổi bật.]",
+        "value": 3
+      },
+      "V": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl1: Tôi muốn công việc có nội quy, quy định rõ ràng.]",
+        "value": 4
+      },
+      "W": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl2: Tôi thích nghề có lộ trình ổn định, lâu dài.]",
+        "value": 5
+      },
+      "X": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl3: Tôi thường tuân thủ kế hoạch học tập/làm việc đã đặt ra.]",
+        "value": 2
+      },
+      "Y": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl4: Tôi tôn trọng luật lệ, thẩm quyền trong học tập/công việc.]",
+        "value": 5
+      },
+      "Z": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl5: Tôi thấy khó chịu nếu có quá nhiều nội quy cứng nhắc.]",
+        "value": 3
+      },
+      "AA": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or1: Tôi thường đặt mục tiêu đo được bằng điểm/KPI/kết quả cụ thể.]",
+        "value": 5
+      },
+      "AB": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or2: Tôi thấy hứng thú khi có thử thách mới để vượt qua.]",
+        "value": 4
+      },
+      "AC": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or3: Tôi so sánh kết quả của mình với bạn để phấn đấu hơn.]",
+        "value": 5
+      },
+      "AD": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or4: Tôi quan tâm cách làm mới, hiệu quả hơn để đạt mục tiêu.]",
+        "value": 4
+      },
+      "AE": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or5: Tôi không thích áp lực thành tích, chỉ muốn làm vừa đủ.]",
+        "value": 2
+      },
+      "AF": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr1: Tôi coi trọng công bằng, tôn trọng khác biệt trong học tập/công việc.]",
+        "value": 4
+      },
+      "AG": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr2: Tôi muốn nghề tương lai giúp ích cho cộng đồng/xã hội.]",
+        "value": 5
+      },
+      "AH": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr3: Tôi thích làm việc nhóm, mọi người cùng tham gia ý kiến.]",
+        "value": 4
+      },
+      "AI": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr4: Tôi thường giữ hòa khí, hạn chế xung đột.]",
+        "value": 5
+      },
+      "AJ": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye1: Tôi thích nghề đòi hỏi giải quyết vấn đề phức tạp.]",
+        "value": 4
+      },
+      "AK": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye2: Tôi coi trọng tự học liên tục, phát triển cả đời.]",
+        "value": 5
+      },
+      "AL": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye3: Tôi thường kết hợp nhiều ý tưởng/góc nhìn để tìm giải pháp.]",
+        "value": 4
+      },
+      "AM": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye4: Tôi linh hoạt đổi cách làm khi điều kiện thay đổi.]",
+        "value": 4
+      },
+      "AN": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye5: Tôi chỉ thích cách làm quen thuộc, không muốn thử mới.]",
+        "value": 3
+      },
+      "AO": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq1: Tôi quan tâm tác động lâu dài của nghề với xã hội/môi trường.]",
+        "value": 5
+      },
+      "AP": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq2: Tôi tin con người – xã hội – thiên nhiên có liên hệ chặt chẽ.]",
+        "value": 5
+      },
+      "AQ": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq3: Tôi muốn chọn nghề có ý nghĩa vượt lên lợi ích cá nhân.]",
+        "value": 4
+      },
+      "AR": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq4: Tôi sẵn sàng hợp tác đa ngành/đa văn hóa vì mục tiêu chung.]",
+        "value": 5
+      },
+      "AS": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq5: Tôi nghĩ các vấn đề toàn cầu (môi trường, bình đẳng) không liên quan đến chọn nghề của mình.]",
+        "value": 5
+      },
+      "AT": {
+        "header": "Bạn quan tâm tới ngành nghề nào? ( Nêu 1 ngành nghề cụ thể thôi để tôi tư vấn chuyên sâu cho bạn nha!)",
+        "value": ""
+      }
+    },
+    {
+      "A": {
+        "header": "Dấu thời gian",
+        "value": "2025-10-29T05:40:14.145Z"
+      },
+      "B": {
+        "header": "Tôi đã đọc những thông tin hướng dẫn trên và đồng ý tham gia thực hiện khảo sát này",
+        "value": "Đồng ý"
+      },
+      "C": {
+        "header": "1. Bạn thuộc giới tính nào?",
+        "value": "Nữ"
+      },
+      "D": {
+        "header": "2. Bạn là học sinh khối mấy? (năm học 2025 – 2026)",
+        "value": 12
+      },
+      "E": {
+        "header": "3. Bạn là học sinh trường nào?",
+        "value": "THPT Lương Thế Vinh "
+      },
+      "F": {
+        "header": "4. Trường của bạn thuộc mô hình nào?",
+        "value": "Công lập thường"
+      },
+      "G": {
+        "header": "5. Bạn học chương trình nào?",
+        "value": "Hệ Thường"
+      },
+      "H": {
+        "header": "6. Email (Giúp bạn có thể xem kết quả và so sánh với cộng đồng trên Dashboard",
+        "value": "tt.thaothanh0808@gmail.com"
+      },
+      "I": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be1: Khi nghĩ đến nghề, điều tôi quan tâm nhất là có thể tự nuôi sống bản thân.]",
+        "value": 5
+      },
+      "J": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be2: Tôi ưu tiên chọn nghề ít rủi ro, an toàn cho cuộc sống.]",
+        "value": 4
+      },
+      "K": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be3: Tôi thường ngại thay đổi lớn (chuyển ngành, đổi hướng).]",
+        "value": 3
+      },
+      "L": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be4: Tôi muốn có việc làm ổn định ngay sau khi ra trường.]",
+        "value": 4
+      },
+      "M": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be5: Tôi chấp nhận rủi ro, thử điều mới dù thiếu an toàn ban đầu.]",
+        "value": 3
+      },
+      "N": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu1: Tôi coi trọng ý kiến gia đình khi chọn nghề.]",
+        "value": 4
+      },
+      "O": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu2: Tôi muốn nghề gắn với truyền thống hoặc mong muốn của cha mẹ.]",
+        "value": 3
+      },
+      "P": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu3: Tôi thấy yên tâm khi chọn nghề quen thuộc với người thân.]",
+        "value": 3
+      },
+      "Q": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu4: Tôi tôn trọng lời khuyên của thầy cô/cha mẹ trong chọn nghề.]",
+        "value": 4
+      },
+      "R": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re1: Tôi muốn có nghề giúp tôi thể hiện bản thân, được công nhận.]",
+        "value": 5
+      },
+      "S": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re2: Tôi thích môi trường cạnh tranh, có người thắng – thua rõ ràng.]",
+        "value": 4
+      },
+      "T": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re3: Tôi hứng thú với những nghề cho phép quyết đoán, hành động nhanh.]",
+        "value": 3
+      },
+      "U": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re4: Tôi sẵn sàng mạo hiểm để đạt thành công nổi bật.]",
+        "value": 3
+      },
+      "V": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl1: Tôi muốn công việc có nội quy, quy định rõ ràng.]",
+        "value": 5
+      },
+      "W": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl2: Tôi thích nghề có lộ trình ổn định, lâu dài.]",
+        "value": 4
+      },
+      "X": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl3: Tôi thường tuân thủ kế hoạch học tập/làm việc đã đặt ra.]",
+        "value": 3
+      },
+      "Y": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl4: Tôi tôn trọng luật lệ, thẩm quyền trong học tập/công việc.]",
+        "value": 5
+      },
+      "Z": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl5: Tôi thấy khó chịu nếu có quá nhiều nội quy cứng nhắc.]",
+        "value": 3
+      },
+      "AA": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or1: Tôi thường đặt mục tiêu đo được bằng điểm/KPI/kết quả cụ thể.]",
+        "value": 4
+      },
+      "AB": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or2: Tôi thấy hứng thú khi có thử thách mới để vượt qua.]",
+        "value": 4
+      },
+      "AC": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or3: Tôi so sánh kết quả của mình với bạn để phấn đấu hơn.]",
+        "value": 4
+      },
+      "AD": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or4: Tôi quan tâm cách làm mới, hiệu quả hơn để đạt mục tiêu.]",
+        "value": 4
+      },
+      "AE": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or5: Tôi không thích áp lực thành tích, chỉ muốn làm vừa đủ.]",
+        "value": 2
+      },
+      "AF": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr1: Tôi coi trọng công bằng, tôn trọng khác biệt trong học tập/công việc.]",
+        "value": 5
+      },
+      "AG": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr2: Tôi muốn nghề tương lai giúp ích cho cộng đồng/xã hội.]",
+        "value": 5
+      },
+      "AH": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr3: Tôi thích làm việc nhóm, mọi người cùng tham gia ý kiến.]",
+        "value": 3
+      },
+      "AI": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr4: Tôi thường giữ hòa khí, hạn chế xung đột.]",
+        "value": 4
+      },
+      "AJ": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye1: Tôi thích nghề đòi hỏi giải quyết vấn đề phức tạp.]",
+        "value": 3
+      },
+      "AK": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye2: Tôi coi trọng tự học liên tục, phát triển cả đời.]",
+        "value": 5
+      },
+      "AL": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye3: Tôi thường kết hợp nhiều ý tưởng/góc nhìn để tìm giải pháp.]",
+        "value": 3
+      },
+      "AM": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye4: Tôi linh hoạt đổi cách làm khi điều kiện thay đổi.]",
+        "value": 3
+      },
+      "AN": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye5: Tôi chỉ thích cách làm quen thuộc, không muốn thử mới.]",
+        "value": 3
+      },
+      "AO": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq1: Tôi quan tâm tác động lâu dài của nghề với xã hội/môi trường.]",
+        "value": 3
+      },
+      "AP": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq2: Tôi tin con người – xã hội – thiên nhiên có liên hệ chặt chẽ.]",
+        "value": 4
+      },
+      "AQ": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq3: Tôi muốn chọn nghề có ý nghĩa vượt lên lợi ích cá nhân.]",
+        "value": 3
+      },
+      "AR": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq4: Tôi sẵn sàng hợp tác đa ngành/đa văn hóa vì mục tiêu chung.]",
+        "value": 4
+      },
+      "AS": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq5: Tôi nghĩ các vấn đề toàn cầu (môi trường, bình đẳng) không liên quan đến chọn nghề của mình.]",
+        "value": 3
+      },
+      "AT": {
+        "header": "Bạn quan tâm tới ngành nghề nào? ( Nêu 1 ngành nghề cụ thể thôi để tôi tư vấn chuyên sâu cho bạn nha!)",
+        "value": ""
+      }
+    },
+    {
+      "A": {
+        "header": "Dấu thời gian",
+        "value": "2025-10-29T14:37:35.564Z"
+      },
+      "B": {
+        "header": "Tôi đã đọc những thông tin hướng dẫn trên và đồng ý tham gia thực hiện khảo sát này",
+        "value": "Đồng ý"
+      },
+      "C": {
+        "header": "1. Bạn thuộc giới tính nào?",
+        "value": "Nữ"
+      },
+      "D": {
+        "header": "2. Bạn là học sinh khối mấy? (năm học 2025 – 2026)",
+        "value": 12
+      },
+      "E": {
+        "header": "3. Bạn là học sinh trường nào?",
+        "value": "THPT LƯƠNG THẾ VINH"
+      },
+      "F": {
+        "header": "4. Trường của bạn thuộc mô hình nào?",
+        "value": "Công lập thường"
+      },
+      "G": {
+        "header": "5. Bạn học chương trình nào?",
+        "value": "Hệ Thường"
+      },
+      "H": {
+        "header": "6. Email (Giúp bạn có thể xem kết quả và so sánh với cộng đồng trên Dashboard",
+        "value": "nmt010609@gmail.com"
+      },
+      "I": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be1: Khi nghĩ đến nghề, điều tôi quan tâm nhất là có thể tự nuôi sống bản thân.]",
+        "value": 4
+      },
+      "J": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be2: Tôi ưu tiên chọn nghề ít rủi ro, an toàn cho cuộc sống.]",
+        "value": 5
+      },
+      "K": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be3: Tôi thường ngại thay đổi lớn (chuyển ngành, đổi hướng).]",
+        "value": 4
+      },
+      "L": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be4: Tôi muốn có việc làm ổn định ngay sau khi ra trường.]",
+        "value": 5
+      },
+      "M": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be5: Tôi chấp nhận rủi ro, thử điều mới dù thiếu an toàn ban đầu.]",
+        "value": 4
+      },
+      "N": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu1: Tôi coi trọng ý kiến gia đình khi chọn nghề.]",
+        "value": 4
+      },
+      "O": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu2: Tôi muốn nghề gắn với truyền thống hoặc mong muốn của cha mẹ.]",
+        "value": 3
+      },
+      "P": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu3: Tôi thấy yên tâm khi chọn nghề quen thuộc với người thân.]",
+        "value": 3
+      },
+      "Q": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu4: Tôi tôn trọng lời khuyên của thầy cô/cha mẹ trong chọn nghề.]",
+        "value": 4
+      },
+      "R": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re1: Tôi muốn có nghề giúp tôi thể hiện bản thân, được công nhận.]",
+        "value": 5
+      },
+      "S": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re2: Tôi thích môi trường cạnh tranh, có người thắng – thua rõ ràng.]",
+        "value": 3
+      },
+      "T": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re3: Tôi hứng thú với những nghề cho phép quyết đoán, hành động nhanh.]",
+        "value": 4
+      },
+      "U": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re4: Tôi sẵn sàng mạo hiểm để đạt thành công nổi bật.]",
+        "value": 3
+      },
+      "V": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl1: Tôi muốn công việc có nội quy, quy định rõ ràng.]",
+        "value": 4
+      },
+      "W": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl2: Tôi thích nghề có lộ trình ổn định, lâu dài.]",
+        "value": 5
+      },
+      "X": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl3: Tôi thường tuân thủ kế hoạch học tập/làm việc đã đặt ra.]",
+        "value": 5
+      },
+      "Y": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl4: Tôi tôn trọng luật lệ, thẩm quyền trong học tập/công việc.]",
+        "value": 5
+      },
+      "Z": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl5: Tôi thấy khó chịu nếu có quá nhiều nội quy cứng nhắc.]",
+        "value": 3
+      },
+      "AA": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or1: Tôi thường đặt mục tiêu đo được bằng điểm/KPI/kết quả cụ thể.]",
+        "value": 5
+      },
+      "AB": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or2: Tôi thấy hứng thú khi có thử thách mới để vượt qua.]",
+        "value": 5
+      },
+      "AC": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or3: Tôi so sánh kết quả của mình với bạn để phấn đấu hơn.]",
+        "value": 5
+      },
+      "AD": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or4: Tôi quan tâm cách làm mới, hiệu quả hơn để đạt mục tiêu.]",
+        "value": 5
+      },
+      "AE": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or5: Tôi không thích áp lực thành tích, chỉ muốn làm vừa đủ.]",
+        "value": 2
+      },
+      "AF": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr1: Tôi coi trọng công bằng, tôn trọng khác biệt trong học tập/công việc.]",
+        "value": 4
+      },
+      "AG": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr2: Tôi muốn nghề tương lai giúp ích cho cộng đồng/xã hội.]",
+        "value": 5
+      },
+      "AH": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr3: Tôi thích làm việc nhóm, mọi người cùng tham gia ý kiến.]",
+        "value": 4
+      },
+      "AI": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr4: Tôi thường giữ hòa khí, hạn chế xung đột.]",
+        "value": 4
+      },
+      "AJ": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye1: Tôi thích nghề đòi hỏi giải quyết vấn đề phức tạp.]",
+        "value": 2
+      },
+      "AK": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye2: Tôi coi trọng tự học liên tục, phát triển cả đời.]",
+        "value": 5
+      },
+      "AL": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye3: Tôi thường kết hợp nhiều ý tưởng/góc nhìn để tìm giải pháp.]",
+        "value": 3
+      },
+      "AM": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye4: Tôi linh hoạt đổi cách làm khi điều kiện thay đổi.]",
+        "value": 3
+      },
+      "AN": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye5: Tôi chỉ thích cách làm quen thuộc, không muốn thử mới.]",
+        "value": 3
+      },
+      "AO": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq1: Tôi quan tâm tác động lâu dài của nghề với xã hội/môi trường.]",
+        "value": 5
+      },
+      "AP": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq2: Tôi tin con người – xã hội – thiên nhiên có liên hệ chặt chẽ.]",
+        "value": 4
+      },
+      "AQ": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq3: Tôi muốn chọn nghề có ý nghĩa vượt lên lợi ích cá nhân.]",
+        "value": 3
+      },
+      "AR": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq4: Tôi sẵn sàng hợp tác đa ngành/đa văn hóa vì mục tiêu chung.]",
+        "value": 3
+      },
+      "AS": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq5: Tôi nghĩ các vấn đề toàn cầu (môi trường, bình đẳng) không liên quan đến chọn nghề của mình.]",
+        "value": 2
+      },
+      "AT": {
+        "header": "Bạn quan tâm tới ngành nghề nào? ( Nêu 1 ngành nghề cụ thể thôi để tôi tư vấn chuyên sâu cho bạn nha!)",
+        "value": ""
+      }
+    },
+    {
+      "A": {
+        "header": "Dấu thời gian",
+        "value": "2025-10-30T12:01:46.372Z"
+      },
+      "B": {
+        "header": "Tôi đã đọc những thông tin hướng dẫn trên và đồng ý tham gia thực hiện khảo sát này",
+        "value": "Đồng ý"
+      },
+      "C": {
+        "header": "1. Bạn thuộc giới tính nào?",
+        "value": "Nam"
+      },
+      "D": {
+        "header": "2. Bạn là học sinh khối mấy? (năm học 2025 – 2026)",
+        "value": 12
+      },
+      "E": {
+        "header": "3. Bạn là học sinh trường nào?",
+        "value": "THPT LƯƠNG THẾ VINH"
+      },
+      "F": {
+        "header": "4. Trường của bạn thuộc mô hình nào?",
+        "value": "Công lập thường"
+      },
+      "G": {
+        "header": "5. Bạn học chương trình nào?",
+        "value": "Hệ Thường"
+      },
+      "H": {
+        "header": "6. Email (Giúp bạn có thể xem kết quả và so sánh với cộng đồng trên Dashboard",
+        "value": "nguyenxuankhang2303@gmail.com"
+      },
+      "I": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be1: Khi nghĩ đến nghề, điều tôi quan tâm nhất là có thể tự nuôi sống bản thân.]",
+        "value": 5
+      },
+      "J": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be2: Tôi ưu tiên chọn nghề ít rủi ro, an toàn cho cuộc sống.]",
+        "value": 3
+      },
+      "K": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be3: Tôi thường ngại thay đổi lớn (chuyển ngành, đổi hướng).]",
+        "value": 2
+      },
+      "L": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be4: Tôi muốn có việc làm ổn định ngay sau khi ra trường.]",
+        "value": 4
+      },
+      "M": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be5: Tôi chấp nhận rủi ro, thử điều mới dù thiếu an toàn ban đầu.]",
+        "value": 4
+      },
+      "N": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu1: Tôi coi trọng ý kiến gia đình khi chọn nghề.]",
+        "value": 4
+      },
+      "O": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu2: Tôi muốn nghề gắn với truyền thống hoặc mong muốn của cha mẹ.]",
+        "value": 2
+      },
+      "P": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu3: Tôi thấy yên tâm khi chọn nghề quen thuộc với người thân.]",
+        "value": 2
+      },
+      "Q": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu4: Tôi tôn trọng lời khuyên của thầy cô/cha mẹ trong chọn nghề.]",
+        "value": 4
+      },
+      "R": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re1: Tôi muốn có nghề giúp tôi thể hiện bản thân, được công nhận.]",
+        "value": 5
+      },
+      "S": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re2: Tôi thích môi trường cạnh tranh, có người thắng – thua rõ ràng.]",
+        "value": 4
+      },
+      "T": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re3: Tôi hứng thú với những nghề cho phép quyết đoán, hành động nhanh.]",
+        "value": 4
+      },
+      "U": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re4: Tôi sẵn sàng mạo hiểm để đạt thành công nổi bật.]",
+        "value": 4
+      },
+      "V": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl1: Tôi muốn công việc có nội quy, quy định rõ ràng.]",
+        "value": 5
+      },
+      "W": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl2: Tôi thích nghề có lộ trình ổn định, lâu dài.]",
+        "value": 4
+      },
+      "X": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl3: Tôi thường tuân thủ kế hoạch học tập/làm việc đã đặt ra.]",
+        "value": 2
+      },
+      "Y": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl4: Tôi tôn trọng luật lệ, thẩm quyền trong học tập/công việc.]",
+        "value": 4
+      },
+      "Z": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl5: Tôi thấy khó chịu nếu có quá nhiều nội quy cứng nhắc.]",
+        "value": 4
+      },
+      "AA": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or1: Tôi thường đặt mục tiêu đo được bằng điểm/KPI/kết quả cụ thể.]",
+        "value": 4
+      },
+      "AB": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or2: Tôi thấy hứng thú khi có thử thách mới để vượt qua.]",
+        "value": 4
+      },
+      "AC": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or3: Tôi so sánh kết quả của mình với bạn để phấn đấu hơn.]",
+        "value": 4
+      },
+      "AD": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or4: Tôi quan tâm cách làm mới, hiệu quả hơn để đạt mục tiêu.]",
+        "value": 4
+      },
+      "AE": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or5: Tôi không thích áp lực thành tích, chỉ muốn làm vừa đủ.]",
+        "value": 2
+      },
+      "AF": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr1: Tôi coi trọng công bằng, tôn trọng khác biệt trong học tập/công việc.]",
+        "value": 5
+      },
+      "AG": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr2: Tôi muốn nghề tương lai giúp ích cho cộng đồng/xã hội.]",
+        "value": 5
+      },
+      "AH": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr3: Tôi thích làm việc nhóm, mọi người cùng tham gia ý kiến.]",
+        "value": 5
+      },
+      "AI": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr4: Tôi thường giữ hòa khí, hạn chế xung đột.]",
+        "value": 5
+      },
+      "AJ": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye1: Tôi thích nghề đòi hỏi giải quyết vấn đề phức tạp.]",
+        "value": 4
+      },
+      "AK": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye2: Tôi coi trọng tự học liên tục, phát triển cả đời.]",
+        "value": 5
+      },
+      "AL": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye3: Tôi thường kết hợp nhiều ý tưởng/góc nhìn để tìm giải pháp.]",
+        "value": 5
+      },
+      "AM": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye4: Tôi linh hoạt đổi cách làm khi điều kiện thay đổi.]",
+        "value": 4
+      },
+      "AN": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye5: Tôi chỉ thích cách làm quen thuộc, không muốn thử mới.]",
+        "value": 3
+      },
+      "AO": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq1: Tôi quan tâm tác động lâu dài của nghề với xã hội/môi trường.]",
+        "value": 4
+      },
+      "AP": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq2: Tôi tin con người – xã hội – thiên nhiên có liên hệ chặt chẽ.]",
+        "value": 5
+      },
+      "AQ": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq3: Tôi muốn chọn nghề có ý nghĩa vượt lên lợi ích cá nhân.]",
+        "value": 3
+      },
+      "AR": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq4: Tôi sẵn sàng hợp tác đa ngành/đa văn hóa vì mục tiêu chung.]",
+        "value": 2
+      },
+      "AS": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq5: Tôi nghĩ các vấn đề toàn cầu (môi trường, bình đẳng) không liên quan đến chọn nghề của mình.]",
+        "value": 3
+      },
+      "AT": {
+        "header": "Bạn quan tâm tới ngành nghề nào? ( Nêu 1 ngành nghề cụ thể thôi để tôi tư vấn chuyên sâu cho bạn nha!)",
+        "value": ""
+      }
+    },
+    {
+      "A": {
+        "header": "Dấu thời gian",
+        "value": "2025-11-11T09:45:00.189Z"
+      },
+      "B": {
+        "header": "Tôi đã đọc những thông tin hướng dẫn trên và đồng ý tham gia thực hiện khảo sát này",
+        "value": "Đồng ý"
+      },
+      "C": {
+        "header": "1. Bạn thuộc giới tính nào?",
+        "value": "Nữ"
+      },
+      "D": {
+        "header": "2. Bạn là học sinh khối mấy? (năm học 2025 – 2026)",
+        "value": 11
+      },
+      "E": {
+        "header": "3. Bạn là học sinh trường nào?",
+        "value": "THPT Lương Thế Vinh"
+      },
+      "F": {
+        "header": "4. Trường của bạn thuộc mô hình nào?",
+        "value": "Công lập thường"
+      },
+      "G": {
+        "header": "5. Bạn học chương trình nào?",
+        "value": "Hệ Thường"
+      },
+      "H": {
+        "header": "6. Email (Giúp bạn có thể xem kết quả và so sánh với cộng đồng trên Dashboard",
+        "value": "thanhthuongk40@gmail.com"
+      },
+      "I": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be1: Khi nghĩ đến nghề, điều tôi quan tâm nhất là có thể tự nuôi sống bản thân.]",
+        "value": 4
+      },
+      "J": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be2: Tôi ưu tiên chọn nghề ít rủi ro, an toàn cho cuộc sống.]",
+        "value": 2
+      },
+      "K": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be3: Tôi thường ngại thay đổi lớn (chuyển ngành, đổi hướng).]",
+        "value": 2
+      },
+      "L": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be4: Tôi muốn có việc làm ổn định ngay sau khi ra trường.]",
+        "value": 2
+      },
+      "M": {
+        "header": "C1. Đánh giá màu Be (Be – Beige) [Be5: Tôi chấp nhận rủi ro, thử điều mới dù thiếu an toàn ban đầu.]",
+        "value": 4
+      },
+      "N": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu1: Tôi coi trọng ý kiến gia đình khi chọn nghề.]",
+        "value": 2
+      },
+      "O": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu2: Tôi muốn nghề gắn với truyền thống hoặc mong muốn của cha mẹ.]",
+        "value": 2
+      },
+      "P": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu3: Tôi thấy yên tâm khi chọn nghề quen thuộc với người thân.]",
+        "value": 2
+      },
+      "Q": {
+        "header": "C2. Đánh giá màu tím (Pu – Purple) [Pu4: Tôi tôn trọng lời khuyên của thầy cô/cha mẹ trong chọn nghề.]",
+        "value": 2
+      },
+      "R": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re1: Tôi muốn có nghề giúp tôi thể hiện bản thân, được công nhận.]",
+        "value": 4
+      },
+      "S": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re2: Tôi thích môi trường cạnh tranh, có người thắng – thua rõ ràng.]",
+        "value": 4
+      },
+      "T": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re3: Tôi hứng thú với những nghề cho phép quyết đoán, hành động nhanh.]",
+        "value": 4
+      },
+      "U": {
+        "header": "C3. Đánh giá màu đỏ (Re – Red) [Re4: Tôi sẵn sàng mạo hiểm để đạt thành công nổi bật.]",
+        "value": 5
+      },
+      "V": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl1: Tôi muốn công việc có nội quy, quy định rõ ràng.]",
+        "value": 3
+      },
+      "W": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl2: Tôi thích nghề có lộ trình ổn định, lâu dài.]",
+        "value": 3
+      },
+      "X": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl3: Tôi thường tuân thủ kế hoạch học tập/làm việc đã đặt ra.]",
+        "value": 2
+      },
+      "Y": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl4: Tôi tôn trọng luật lệ, thẩm quyền trong học tập/công việc.]",
+        "value": 2
+      },
+      "Z": {
+        "header": "C4. Đánh giá màu xanh dương (Bl – Blue) [Bl5: Tôi thấy khó chịu nếu có quá nhiều nội quy cứng nhắc.]",
+        "value": 4
+      },
+      "AA": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or1: Tôi thường đặt mục tiêu đo được bằng điểm/KPI/kết quả cụ thể.]",
+        "value": 4
+      },
+      "AB": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or2: Tôi thấy hứng thú khi có thử thách mới để vượt qua.]",
+        "value": 4
+      },
+      "AC": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or3: Tôi so sánh kết quả của mình với bạn để phấn đấu hơn.]",
+        "value": 5
+      },
+      "AD": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or4: Tôi quan tâm cách làm mới, hiệu quả hơn để đạt mục tiêu.]",
+        "value": 5
+      },
+      "AE": {
+        "header": "C5. Đánh giá màu cam (Or – Orange) [Or5: Tôi không thích áp lực thành tích, chỉ muốn làm vừa đủ.]",
+        "value": 1
+      },
+      "AF": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr1: Tôi coi trọng công bằng, tôn trọng khác biệt trong học tập/công việc.]",
+        "value": 4
+      },
+      "AG": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr2: Tôi muốn nghề tương lai giúp ích cho cộng đồng/xã hội.]",
+        "value": 4
+      },
+      "AH": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr3: Tôi thích làm việc nhóm, mọi người cùng tham gia ý kiến.]",
+        "value": 4
+      },
+      "AI": {
+        "header": "C6. Đánh giá màu xanh lá (Gr – Green) [Gr4: Tôi thường giữ hòa khí, hạn chế xung đột.]",
+        "value": 4
+      },
+      "AJ": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye1: Tôi thích nghề đòi hỏi giải quyết vấn đề phức tạp.]",
+        "value": 4
+      },
+      "AK": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye2: Tôi coi trọng tự học liên tục, phát triển cả đời.]",
+        "value": 4
+      },
+      "AL": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye3: Tôi thường kết hợp nhiều ý tưởng/góc nhìn để tìm giải pháp.]",
+        "value": 4
+      },
+      "AM": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye4: Tôi linh hoạt đổi cách làm khi điều kiện thay đổi.]",
+        "value": 4
+      },
+      "AN": {
+        "header": "C7. Đánh giá màu vàng (Ye – Yellow) [Ye5: Tôi chỉ thích cách làm quen thuộc, không muốn thử mới.]",
+        "value": 1
+      },
+      "AO": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq1: Tôi quan tâm tác động lâu dài của nghề với xã hội/môi trường.]",
+        "value": 4
+      },
+      "AP": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq2: Tôi tin con người – xã hội – thiên nhiên có liên hệ chặt chẽ.]",
+        "value": 4
+      },
+      "AQ": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq3: Tôi muốn chọn nghề có ý nghĩa vượt lên lợi ích cá nhân.]",
+        "value": 4
+      },
+      "AR": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq4: Tôi sẵn sàng hợp tác đa ngành/đa văn hóa vì mục tiêu chung.]",
+        "value": 4
+      },
+      "AS": {
+        "header": "C8. Đánh giá màu xanh ngọc (Tq – Turquoise) [Tq5: Tôi nghĩ các vấn đề toàn cầu (môi trường, bình đẳng) không liên quan đến chọn nghề của mình.]",
+        "value": 4
+      },
+      "AT": {
+        "header": "Bạn quan tâm tới ngành nghề nào? ( Nêu 1 ngành nghề cụ thể thôi để tôi tư vấn chuyên sâu cho bạn nha!)",
+        "value": "Công nghệ thông tin"
+      }
+    }
+  ]
+}
